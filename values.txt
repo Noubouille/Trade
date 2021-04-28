@@ -1,0 +1,1990 @@
+
+Index 0 - Date: 2018-01-17T01:00:00
+self._BTC_ETH_array[0][date]: 1516147200.0
+self._BTC_ETH_array[0][high]: 1.1921742863238534
+self._BTC_ETH_array[0][low]: 1.1921742863238534
+self._BTC_ETH_array[0][open]: 1.1628386804318223
+self._BTC_ETH_array[0][close]: 1.1557050275770346
+self._BTC_ETH_array[0][volume]: 481.51276914
+
+Index 1 - Date: 2018-01-17T01:30:00
+self._BTC_ETH_array[1][date]: 1516149000.0
+self._BTC_ETH_array[1][high]: 1.1337467689236043
+self._BTC_ETH_array[1][low]: 1.1337467689236043
+self._BTC_ETH_array[1][open]: 1.1060719563682047
+self._BTC_ETH_array[1][close]: 1.0932404198883607
+self._BTC_ETH_array[1][volume]: 343.77636407
+
+Index 2 - Date: 2018-01-17T02:00:00
+self._BTC_ETH_array[2][date]: 1516150800.0
+self._BTC_ETH_array[2][high]: 1.1489732574652969
+self._BTC_ETH_array[2][low]: 1.1489732574652969
+self._BTC_ETH_array[2][open]: 1.1195948179965869
+self._BTC_ETH_array[2][close]: 1.126747247789381
+self._BTC_ETH_array[2][volume]: 247.74472748
+
+Index 3 - Date: 2018-01-17T02:30:00
+self._BTC_ETH_array[3][date]: 1516152600.0
+self._BTC_ETH_array[3][high]: 1.1544020631259806
+self._BTC_ETH_array[3][low]: 1.1544020631259806
+self._BTC_ETH_array[3][open]: 1.122061744573227
+self._BTC_ETH_array[3][close]: 1.1242462058392373
+self._BTC_ETH_array[3][volume]: 139.75894736
+
+Index 4 - Date: 2018-01-17T03:00:00
+self._BTC_ETH_array[4][date]: 1516154400.0
+self._BTC_ETH_array[4][high]: 1.097251068476081
+self._BTC_ETH_array[4][low]: 1.097251068476081
+self._BTC_ETH_array[4][open]: 1.0534098578864632
+self._BTC_ETH_array[4][close]: 1.068750936769275
+self._BTC_ETH_array[4][volume]: 989.07819809
+
+Index 5 - Date: 2018-01-17T03:30:00
+self._BTC_ETH_array[5][date]: 1516156200.0
+self._BTC_ETH_array[5][high]: 1.0884107390334032
+self._BTC_ETH_array[5][low]: 1.0884107390334032
+self._BTC_ETH_array[5][open]: 1.0513381416979162
+self._BTC_ETH_array[5][close]: 1.0636068377372807
+self._BTC_ETH_array[5][volume]: 203.17024443
+
+Index 6 - Date: 2018-01-17T04:00:00
+self._BTC_ETH_array[6][date]: 1516158000.0
+self._BTC_ETH_array[6][high]: 1.0951712624425192
+self._BTC_ETH_array[6][low]: 1.0951712624425192
+self._BTC_ETH_array[6][open]: 1.060487152773779
+self._BTC_ETH_array[6][close]: 1.068571179129394
+self._BTC_ETH_array[6][volume]: 264.59237962
+
+Index 7 - Date: 2018-01-17T04:30:00
+self._BTC_ETH_array[7][date]: 1516159800.0
+self._BTC_ETH_array[7][high]: 1.1094072777923198
+self._BTC_ETH_array[7][low]: 1.1094072777923198
+self._BTC_ETH_array[7][open]: 1.0792233976530528
+self._BTC_ETH_array[7][close]: 1.0885355402185806
+self._BTC_ETH_array[7][volume]: 243.88125363
+
+Index 8 - Date: 2018-01-17T05:00:00
+self._BTC_ETH_array[8][date]: 1516161600.0
+self._BTC_ETH_array[8][high]: 1.0961602848868295
+self._BTC_ETH_array[8][low]: 1.0961602848868295
+self._BTC_ETH_array[8][open]: 1.0678129122497284
+self._BTC_ETH_array[8][close]: 1.069585697870686
+self._BTC_ETH_array[8][volume]: 214.92357556
+
+Index 9 - Date: 2018-01-17T05:30:00
+self._BTC_ETH_array[9][date]: 1516163400.0
+self._BTC_ETH_array[9][high]: 1.005100598371391
+self._BTC_ETH_array[9][low]: 1.005100598371391
+self._BTC_ETH_array[9][open]: 0.9798033527173021
+self._BTC_ETH_array[9][close]: 0.9843053719162334
+self._BTC_ETH_array[9][volume]: 201.95462198
+
+Index 10 - Date: 2018-01-17T06:00:00
+self._BTC_ETH_array[10][date]: 1516165200.0
+self._BTC_ETH_array[10][high]: 1.0416805732619803
+self._BTC_ETH_array[10][low]: 1.0416805732619803
+self._BTC_ETH_array[10][open]: 1.0128066866595058
+self._BTC_ETH_array[10][close]: 1.0065466435644261
+self._BTC_ETH_array[10][volume]: 143.23393661
+
+Index 11 - Date: 2018-01-17T06:30:00
+self._BTC_ETH_array[11][date]: 1516167000.0
+self._BTC_ETH_array[11][high]: 1.0947778587410109
+self._BTC_ETH_array[11][low]: 1.0947778587410109
+self._BTC_ETH_array[11][open]: 1.0588728109186487
+self._BTC_ETH_array[11][close]: 1.0598671181407717
+self._BTC_ETH_array[11][volume]: 215.63492559
+
+Index 12 - Date: 2018-01-17T07:00:00
+self._BTC_ETH_array[12][date]: 1516168800.0
+self._BTC_ETH_array[12][high]: 1.0420690596237794
+self._BTC_ETH_array[12][low]: 1.0420690596237794
+self._BTC_ETH_array[12][open]: 1.0210324051294937
+self._BTC_ETH_array[12][close]: 1.0147695029865118
+self._BTC_ETH_array[12][volume]: 669.37887641
+
+Index 13 - Date: 2018-01-17T07:30:00
+self._BTC_ETH_array[13][date]: 1516170600.0
+self._BTC_ETH_array[13][high]: 1.0244428826250929
+self._BTC_ETH_array[13][low]: 1.0244428826250929
+self._BTC_ETH_array[13][open]: 0.9985497054124732
+self._BTC_ETH_array[13][close]: 0.9990203328247625
+self._BTC_ETH_array[13][volume]: 225.48518722
+
+Index 14 - Date: 2018-01-17T08:00:00
+self._BTC_ETH_array[14][date]: 1516172400.0
+self._BTC_ETH_array[14][high]: 0.9747351713238855
+self._BTC_ETH_array[14][low]: 0.9747351713238855
+self._BTC_ETH_array[14][open]: 0.9571882063652651
+self._BTC_ETH_array[14][close]: 0.9527444273062551
+self._BTC_ETH_array[14][volume]: 178.19075503
+
+Index 15 - Date: 2018-01-17T08:30:00
+self._BTC_ETH_array[15][date]: 1516174200.0
+self._BTC_ETH_array[15][high]: 1.0374982013275573
+self._BTC_ETH_array[15][low]: 1.0374982013275573
+self._BTC_ETH_array[15][open]: 1.0120285418408765
+self._BTC_ETH_array[15][close]: 1.0128521262040513
+self._BTC_ETH_array[15][volume]: 284.50009876
+
+Index 16 - Date: 2018-01-17T09:00:00
+self._BTC_ETH_array[16][date]: 1516176000.0
+self._BTC_ETH_array[16][high]: 1.0371021719017945
+self._BTC_ETH_array[16][low]: 1.0371021719017945
+self._BTC_ETH_array[16][open]: 1.0002198429140443
+self._BTC_ETH_array[16][close]: 1.010534160126858
+self._BTC_ETH_array[16][volume]: 115.59347934
+
+Index 17 - Date: 2018-01-17T09:30:00
+self._BTC_ETH_array[17][date]: 1516177800.0
+self._BTC_ETH_array[17][high]: 1.0295022906375364
+self._BTC_ETH_array[17][low]: 1.0295022906375364
+self._BTC_ETH_array[17][open]: 1.0061597345568707
+self._BTC_ETH_array[17][close]: 1.0092446749429864
+self._BTC_ETH_array[17][volume]: 93.77592956
+
+Index 18 - Date: 2018-01-17T10:00:00
+self._BTC_ETH_array[18][date]: 1516179600.0
+self._BTC_ETH_array[18][high]: 0.96020662972546
+self._BTC_ETH_array[18][low]: 0.96020662972546
+self._BTC_ETH_array[18][open]: 0.933781616492191
+self._BTC_ETH_array[18][close]: 0.935422059997505
+self._BTC_ETH_array[18][volume]: 75.92534074
+
+Index 19 - Date: 2018-01-17T10:30:00
+self._BTC_ETH_array[19][date]: 1516181400.0
+self._BTC_ETH_array[19][high]: 1.0531005233824853
+self._BTC_ETH_array[19][low]: 1.0531005233824853
+self._BTC_ETH_array[19][open]: 1.0290076415543778
+self._BTC_ETH_array[19][close]: 1.0329266703247624
+self._BTC_ETH_array[19][volume]: 177.12005382
+
+Index 20 - Date: 2018-01-17T11:00:00
+self._BTC_ETH_array[20][date]: 1516183200.0
+self._BTC_ETH_array[20][high]: 0.9880230776921759
+self._BTC_ETH_array[20][low]: 0.9880230776921759
+self._BTC_ETH_array[20][open]: 0.9630373849189509
+self._BTC_ETH_array[20][close]: 0.9727432984178427
+self._BTC_ETH_array[20][volume]: 221.25034505
+
+Index 21 - Date: 2018-01-17T11:30:00
+self._BTC_ETH_array[21][date]: 1516185000.0
+self._BTC_ETH_array[21][high]: 1.0433588839820807
+self._BTC_ETH_array[21][low]: 1.0433588839820807
+self._BTC_ETH_array[21][open]: 1.0164029623341924
+self._BTC_ETH_array[21][close]: 1.014127545260971
+self._BTC_ETH_array[21][volume]: 258.10408976
+
+Index 22 - Date: 2018-01-17T12:00:00
+self._BTC_ETH_array[22][date]: 1516186800.0
+self._BTC_ETH_array[22][high]: 1.003486763903933
+self._BTC_ETH_array[22][low]: 1.003486763903933
+self._BTC_ETH_array[22][open]: 0.9883306179476234
+self._BTC_ETH_array[22][close]: 0.9766534071717969
+self._BTC_ETH_array[22][volume]: 211.10940644
+
+Index 23 - Date: 2018-01-17T12:30:00
+self._BTC_ETH_array[23][date]: 1516188600.0
+self._BTC_ETH_array[23][high]: 1.0038072802484854
+self._BTC_ETH_array[23][low]: 1.0038072802484854
+self._BTC_ETH_array[23][open]: 0.9787083355560393
+self._BTC_ETH_array[23][close]: 0.9821077976607372
+self._BTC_ETH_array[23][volume]: 297.5992532
+
+Index 24 - Date: 2018-01-17T13:00:00
+self._BTC_ETH_array[24][date]: 1516190400.0
+self._BTC_ETH_array[24][high]: 0.9949031756096577
+self._BTC_ETH_array[24][low]: 0.9949031756096577
+self._BTC_ETH_array[24][open]: 0.9742145906108683
+self._BTC_ETH_array[24][close]: 0.9619602921203368
+self._BTC_ETH_array[24][volume]: 164.30029406
+
+Index 25 - Date: 2018-01-17T13:30:00
+self._BTC_ETH_array[25][date]: 1516192200.0
+self._BTC_ETH_array[25][high]: 0.9685910389169269
+self._BTC_ETH_array[25][low]: 0.9685910389169269
+self._BTC_ETH_array[25][open]: 0.9513682387738626
+self._BTC_ETH_array[25][close]: 0.952029587986682
+self._BTC_ETH_array[25][volume]: 198.95229239
+
+Index 26 - Date: 2018-01-17T14:00:00
+self._BTC_ETH_array[26][date]: 1516194000.0
+self._BTC_ETH_array[26][high]: 0.9432012101941981
+self._BTC_ETH_array[26][low]: 0.9432012101941981
+self._BTC_ETH_array[26][open]: 0.9227873461245047
+self._BTC_ETH_array[26][close]: 0.9144192510799415
+self._BTC_ETH_array[26][volume]: 85.67375378
+
+Index 27 - Date: 2018-01-17T14:30:00
+self._BTC_ETH_array[27][date]: 1516195800.0
+self._BTC_ETH_array[27][high]: 0.9086612105463748
+self._BTC_ETH_array[27][low]: 0.9086612105463748
+self._BTC_ETH_array[27][open]: 0.8777915326866845
+self._BTC_ETH_array[27][close]: 0.8905106257521554
+self._BTC_ETH_array[27][volume]: 224.13723143
+
+Index 28 - Date: 2018-01-17T15:00:00
+self._BTC_ETH_array[28][date]: 1516197600.0
+self._BTC_ETH_array[28][high]: 0.939287686240803
+self._BTC_ETH_array[28][low]: 0.939287686240803
+self._BTC_ETH_array[28][open]: 0.9205624005724488
+self._BTC_ETH_array[28][close]: 0.9152277566008777
+self._BTC_ETH_array[28][volume]: 334.77976007
+
+Index 29 - Date: 2018-01-17T15:30:00
+self._BTC_ETH_array[29][date]: 1516199400.0
+self._BTC_ETH_array[29][high]: 0.9332088006899604
+self._BTC_ETH_array[29][low]: 0.9332088006899604
+self._BTC_ETH_array[29][open]: 0.9169027511710404
+self._BTC_ETH_array[29][close]: 0.9109329580333365
+self._BTC_ETH_array[29][volume]: 515.06583527
+
+Index 30 - Date: 2018-01-17T16:00:00
+self._BTC_ETH_array[30][date]: 1516201200.0
+self._BTC_ETH_array[30][high]: 0.8761306008444377
+self._BTC_ETH_array[30][low]: 0.8761306008444377
+self._BTC_ETH_array[30][open]: 0.8576726331041719
+self._BTC_ETH_array[30][close]: 0.8473177428984873
+self._BTC_ETH_array[30][volume]: 503.27160293
+
+Index 31 - Date: 2018-01-17T16:30:00
+self._BTC_ETH_array[31][date]: 1516203000.0
+self._BTC_ETH_array[31][high]: 0.951149499090652
+self._BTC_ETH_array[31][low]: 0.951149499090652
+self._BTC_ETH_array[31][open]: 0.9333973141501388
+self._BTC_ETH_array[31][close]: 0.9226349673156137
+self._BTC_ETH_array[31][volume]: 386.82520335
+
+Index 32 - Date: 2018-01-17T17:00:00
+self._BTC_ETH_array[32][date]: 1516204800.0
+self._BTC_ETH_array[32][high]: 0.9048537460265428
+self._BTC_ETH_array[32][low]: 0.9048537460265428
+self._BTC_ETH_array[32][open]: 0.8785753091006078
+self._BTC_ETH_array[32][close]: 0.8764609307714999
+self._BTC_ETH_array[32][volume]: 282.03175343
+
+Index 33 - Date: 2018-01-17T17:30:00
+self._BTC_ETH_array[33][date]: 1516206600.0
+self._BTC_ETH_array[33][high]: 0.872148477382181
+self._BTC_ETH_array[33][low]: 0.872148477382181
+self._BTC_ETH_array[33][open]: 0.8486831039402052
+self._BTC_ETH_array[33][close]: 0.8481704692900498
+self._BTC_ETH_array[33][volume]: 312.13480615
+
+Index 34 - Date: 2018-01-17T18:00:00
+self._BTC_ETH_array[34][date]: 1516208400.0
+self._BTC_ETH_array[34][high]: 0.9307782305576344
+self._BTC_ETH_array[34][low]: 0.9307782305576344
+self._BTC_ETH_array[34][open]: 0.8985885260845509
+self._BTC_ETH_array[34][close]: 0.9020987589636436
+self._BTC_ETH_array[34][volume]: 339.96818419
+
+Index 35 - Date: 2018-01-17T18:30:00
+self._BTC_ETH_array[35][date]: 1516210200.0
+self._BTC_ETH_array[35][high]: 0.9103313869192227
+self._BTC_ETH_array[35][low]: 0.9103313869192227
+self._BTC_ETH_array[35][open]: 0.8886474517631507
+self._BTC_ETH_array[35][close]: 0.8897745815012177
+self._BTC_ETH_array[35][volume]: 163.22932627
+
+Index 36 - Date: 2018-01-17T19:00:00
+self._BTC_ETH_array[36][date]: 1516212000.0
+self._BTC_ETH_array[36][high]: 0.8337827994943451
+self._BTC_ETH_array[36][low]: 0.8337827994943451
+self._BTC_ETH_array[36][open]: 0.8171596579514706
+self._BTC_ETH_array[36][close]: 0.816899279610674
+self._BTC_ETH_array[36][volume]: 208.91933787
+
+Index 37 - Date: 2018-01-17T19:30:00
+self._BTC_ETH_array[37][date]: 1516213800.0
+self._BTC_ETH_array[37][high]: 0.8305391643857138
+self._BTC_ETH_array[37][low]: 0.8305391643857138
+self._BTC_ETH_array[37][open]: 0.8101224891152752
+self._BTC_ETH_array[37][close]: 0.8192467897879556
+self._BTC_ETH_array[37][volume]: 68.21183935
+
+Index 38 - Date: 2018-01-17T20:00:00
+self._BTC_ETH_array[38][date]: 1516215600.0
+self._BTC_ETH_array[38][high]: 0.9151624969565889
+self._BTC_ETH_array[38][low]: 0.9151624969565889
+self._BTC_ETH_array[38][open]: 0.8909412421160975
+self._BTC_ETH_array[38][close]: 0.8965868677137429
+self._BTC_ETH_array[38][volume]: 17.09972167
+
+Index 39 - Date: 2018-01-17T20:30:00
+self._BTC_ETH_array[39][date]: 1516217400.0
+self._BTC_ETH_array[39][high]: 0.8215902413209776
+self._BTC_ETH_array[39][low]: 0.8215902413209776
+self._BTC_ETH_array[39][open]: 0.8018224551847071
+self._BTC_ETH_array[39][close]: 0.8092121035482093
+self._BTC_ETH_array[39][volume]: 93.89809904
+
+Index 40 - Date: 2018-01-17T21:00:00
+self._BTC_ETH_array[40][date]: 1516219200.0
+self._BTC_ETH_array[40][high]: 0.8674852195988014
+self._BTC_ETH_array[40][low]: 0.8674852195988014
+self._BTC_ETH_array[40][open]: 0.8492067950789114
+self._BTC_ETH_array[40][close]: 0.850668483158715
+self._BTC_ETH_array[40][volume]: 191.335761
+
+Index 41 - Date: 2018-01-17T21:30:00
+self._BTC_ETH_array[41][date]: 1516221000.0
+self._BTC_ETH_array[41][high]: 0.8495241176729621
+self._BTC_ETH_array[41][low]: 0.8495241176729621
+self._BTC_ETH_array[41][open]: 0.8234303486464062
+self._BTC_ETH_array[41][close]: 0.8239983014905352
+self._BTC_ETH_array[41][volume]: 103.06952136
+
+Index 42 - Date: 2018-01-17T22:00:00
+self._BTC_ETH_array[42][date]: 1516222800.0
+self._BTC_ETH_array[42][high]: 0.8933133015059286
+self._BTC_ETH_array[42][low]: 0.8933133015059286
+self._BTC_ETH_array[42][open]: 0.8692651299068823
+self._BTC_ETH_array[42][close]: 0.8769147685253116
+self._BTC_ETH_array[42][volume]: 219.18672545
+
+Index 43 - Date: 2018-01-17T22:30:00
+self._BTC_ETH_array[43][date]: 1516224600.0
+self._BTC_ETH_array[43][high]: 0.8196552069875336
+self._BTC_ETH_array[43][low]: 0.8196552069875336
+self._BTC_ETH_array[43][open]: 0.7994465746746148
+self._BTC_ETH_array[43][close]: 0.7971657594985037
+self._BTC_ETH_array[43][volume]: 321.10136768
+
+Index 44 - Date: 2018-01-17T23:00:00
+self._BTC_ETH_array[44][date]: 1516226400.0
+self._BTC_ETH_array[44][high]: 0.8584724214590264
+self._BTC_ETH_array[44][low]: 0.8584724214590264
+self._BTC_ETH_array[44][open]: 0.8353171426160702
+self._BTC_ETH_array[44][close]: 0.8384365891139941
+self._BTC_ETH_array[44][volume]: 475.95416552
+
+Index 45 - Date: 2018-01-17T23:30:00
+self._BTC_ETH_array[45][date]: 1516228200.0
+self._BTC_ETH_array[45][high]: 0.833198075394318
+self._BTC_ETH_array[45][low]: 0.833198075394318
+self._BTC_ETH_array[45][open]: 0.816934716273372
+self._BTC_ETH_array[45][close]: 0.810916551590775
+self._BTC_ETH_array[45][volume]: 187.20202469
+
+Index 46 - Date: 2018-01-18T00:00:00
+self._BTC_ETH_array[46][date]: 1516230000.0
+self._BTC_ETH_array[46][high]: 0.8345685932882456
+self._BTC_ETH_array[46][low]: 0.8345685932882456
+self._BTC_ETH_array[46][open]: 0.8103698324691813
+self._BTC_ETH_array[46][close]: 0.81152736087178
+self._BTC_ETH_array[46][volume]: 391.03913012
+
+Index 47 - Date: 2018-01-18T00:30:00
+self._BTC_ETH_array[47][date]: 1516231800.0
+self._BTC_ETH_array[47][high]: 0.8550287487595517
+self._BTC_ETH_array[47][low]: 0.8550287487595517
+self._BTC_ETH_array[47][open]: 0.8334333408086863
+self._BTC_ETH_array[47][close]: 0.8302686891754218
+self._BTC_ETH_array[47][volume]: 241.1205372
+
+Index 48 - Date: 2018-01-18T01:00:00
+self._BTC_ETH_array[48][date]: 1516233600.0
+self._BTC_ETH_array[48][high]: 0.8357530573950459
+self._BTC_ETH_array[48][low]: 0.8357530573950459
+self._BTC_ETH_array[48][open]: 0.8145698378071198
+self._BTC_ETH_array[48][close]: 0.812140804295133
+self._BTC_ETH_array[48][volume]: 168.04141137
+
+Index 49 - Date: 2018-01-18T01:30:00
+self._BTC_ETH_array[49][date]: 1516235400.0
+self._BTC_ETH_array[49][high]: 0.828642349952241
+self._BTC_ETH_array[49][low]: 0.828642349952241
+self._BTC_ETH_array[49][open]: 0.8143598067679289
+self._BTC_ETH_array[49][close]: 0.8026258851823657
+self._BTC_ETH_array[49][volume]: 227.23052448
+
+Index 50 - Date: 2018-01-18T02:00:00
+self._BTC_ETH_array[50][date]: 1516237200.0
+self._BTC_ETH_array[50][high]: 0.8136664908600951
+self._BTC_ETH_array[50][low]: 0.8136664908600951
+self._BTC_ETH_array[50][open]: 0.7898918125947451
+self._BTC_ETH_array[50][close]: 0.7994681441278113
+self._BTC_ETH_array[50][volume]: 237.69367564
+
+Index 51 - Date: 2018-01-18T02:30:00
+self._BTC_ETH_array[51][date]: 1516239000.0
+self._BTC_ETH_array[51][high]: 0.8214261954784593
+self._BTC_ETH_array[51][low]: 0.8214261954784593
+self._BTC_ETH_array[51][open]: 0.8026134335268522
+self._BTC_ETH_array[51][close]: 0.7957449038745293
+self._BTC_ETH_array[51][volume]: 214.82224452
+
+Index 52 - Date: 2018-01-18T03:00:00
+self._BTC_ETH_array[52][date]: 1516240800.0
+self._BTC_ETH_array[52][high]: 0.7698429659468372
+self._BTC_ETH_array[52][low]: 0.7698429659468372
+self._BTC_ETH_array[52][open]: 0.7564309843778907
+self._BTC_ETH_array[52][close]: 0.7504863350889566
+self._BTC_ETH_array[52][volume]: 218.72746734
+
+Index 53 - Date: 2018-01-18T03:30:00
+self._BTC_ETH_array[53][date]: 1516242600.0
+self._BTC_ETH_array[53][high]: 0.7879146539510583
+self._BTC_ETH_array[53][low]: 0.7879146539510583
+self._BTC_ETH_array[53][open]: 0.7683731134582232
+self._BTC_ETH_array[53][close]: 0.7651576073633304
+self._BTC_ETH_array[53][volume]: 150.85808874
+
+Index 54 - Date: 2018-01-18T04:00:00
+self._BTC_ETH_array[54][date]: 1516244400.0
+self._BTC_ETH_array[54][high]: 0.7964486550155239
+self._BTC_ETH_array[54][low]: 0.7964486550155239
+self._BTC_ETH_array[54][open]: 0.7743463205355675
+self._BTC_ETH_array[54][close]: 0.7779341745431176
+self._BTC_ETH_array[54][volume]: 187.36454448
+
+Index 55 - Date: 2018-01-18T04:30:00
+self._BTC_ETH_array[55][date]: 1516246200.0
+self._BTC_ETH_array[55][high]: 0.785578598162824
+self._BTC_ETH_array[55][low]: 0.785578598162824
+self._BTC_ETH_array[55][open]: 0.7606208759920728
+self._BTC_ETH_array[55][close]: 0.7708631217205314
+self._BTC_ETH_array[55][volume]: 229.06820958
+
+Index 56 - Date: 2018-01-18T05:00:00
+self._BTC_ETH_array[56][date]: 1516248000.0
+self._BTC_ETH_array[56][high]: 0.8061648532689957
+self._BTC_ETH_array[56][low]: 0.8061648532689957
+self._BTC_ETH_array[56][open]: 0.7897308016081072
+self._BTC_ETH_array[56][close]: 0.7752328995332193
+self._BTC_ETH_array[56][volume]: 210.19707955
+
+Index 57 - Date: 2018-01-18T05:30:00
+self._BTC_ETH_array[57][date]: 1516249800.0
+self._BTC_ETH_array[57][high]: 0.836625090803937
+self._BTC_ETH_array[57][low]: 0.836625090803937
+self._BTC_ETH_array[57][open]: 0.8180116733969449
+self._BTC_ETH_array[57][close]: 0.8156036399276607
+self._BTC_ETH_array[57][volume]: 137.05148013
+
+Index 58 - Date: 2018-01-18T06:00:00
+self._BTC_ETH_array[58][date]: 1516251600.0
+self._BTC_ETH_array[58][high]: 0.763594948227688
+self._BTC_ETH_array[58][low]: 0.763594948227688
+self._BTC_ETH_array[58][open]: 0.7436957855125823
+self._BTC_ETH_array[58][close]: 0.7449708165320791
+self._BTC_ETH_array[58][volume]: 173.91008727
+
+Index 59 - Date: 2018-01-18T06:30:00
+self._BTC_ETH_array[59][date]: 1516253400.0
+self._BTC_ETH_array[59][high]: 0.7706177114197773
+self._BTC_ETH_array[59][low]: 0.7706177114197773
+self._BTC_ETH_array[59][open]: 0.7460467604262682
+self._BTC_ETH_array[59][close]: 0.7528123052999618
+self._BTC_ETH_array[59][volume]: 152.15257686
+
+Index 60 - Date: 2018-01-18T07:00:00
+self._BTC_ETH_array[60][date]: 1516255200.0
+self._BTC_ETH_array[60][high]: 0.735825127096766
+self._BTC_ETH_array[60][low]: 0.735825127096766
+self._BTC_ETH_array[60][open]: 0.7091696363886488
+self._BTC_ETH_array[60][close]: 0.7287456180539776
+self._BTC_ETH_array[60][volume]: 148.49579264
+
+Index 61 - Date: 2018-01-18T07:30:00
+self._BTC_ETH_array[61][date]: 1516257000.0
+self._BTC_ETH_array[61][high]: 0.8163859103594282
+self._BTC_ETH_array[61][low]: 0.8163859103594282
+self._BTC_ETH_array[61][open]: 0.7964173261143286
+self._BTC_ETH_array[61][close]: 0.8018939310450366
+self._BTC_ETH_array[61][volume]: 100.03196719
+
+Index 62 - Date: 2018-01-18T08:00:00
+self._BTC_ETH_array[62][date]: 1516258800.0
+self._BTC_ETH_array[62][high]: 0.7214324650139596
+self._BTC_ETH_array[62][low]: 0.7214324650139596
+self._BTC_ETH_array[62][open]: 0.7039974647288222
+self._BTC_ETH_array[62][close]: 0.697420606867779
+self._BTC_ETH_array[62][volume]: 80.19059686
+
+Index 63 - Date: 2018-01-18T08:30:00
+self._BTC_ETH_array[63][date]: 1516260600.0
+self._BTC_ETH_array[63][high]: 0.7792934891913074
+self._BTC_ETH_array[63][low]: 0.7792934891913074
+self._BTC_ETH_array[63][open]: 0.7600889592993181
+self._BTC_ETH_array[63][close]: 0.7591392039567451
+self._BTC_ETH_array[63][volume]: 108.56707786
+
+Index 64 - Date: 2018-01-18T09:00:00
+self._BTC_ETH_array[64][date]: 1516262400.0
+self._BTC_ETH_array[64][high]: 0.7370066095831278
+self._BTC_ETH_array[64][low]: 0.7370066095831278
+self._BTC_ETH_array[64][open]: 0.7186167186295479
+self._BTC_ETH_array[64][close]: 0.7198389314876729
+self._BTC_ETH_array[64][volume]: 79.0142361
+
+Index 65 - Date: 2018-01-18T09:30:00
+self._BTC_ETH_array[65][date]: 1516264200.0
+self._BTC_ETH_array[65][high]: 0.7380024990367954
+self._BTC_ETH_array[65][low]: 0.7380024990367954
+self._BTC_ETH_array[65][open]: 0.7199352827098625
+self._BTC_ETH_array[65][close]: 0.7161411473957886
+self._BTC_ETH_array[65][volume]: 75.15633886
+
+Index 66 - Date: 2018-01-18T10:00:00
+self._BTC_ETH_array[66][date]: 1516266000.0
+self._BTC_ETH_array[66][high]: 0.7512830517106853
+self._BTC_ETH_array[66][low]: 0.7512830517106853
+self._BTC_ETH_array[66][open]: 0.7365943448387665
+self._BTC_ETH_array[66][close]: 0.730552784520033
+self._BTC_ETH_array[66][volume]: 113.18846296
+
+Index 67 - Date: 2018-01-18T10:30:00
+self._BTC_ETH_array[67][date]: 1516267800.0
+self._BTC_ETH_array[67][high]: 0.7458130809984913
+self._BTC_ETH_array[67][low]: 0.7458130809984913
+self._BTC_ETH_array[67][open]: 0.7242745314800886
+self._BTC_ETH_array[67][close]: 0.7242869899420089
+self._BTC_ETH_array[67][volume]: 116.20225361
+
+Index 68 - Date: 2018-01-18T11:00:00
+self._BTC_ETH_array[68][date]: 1516269600.0
+self._BTC_ETH_array[68][high]: 0.8162571566800321
+self._BTC_ETH_array[68][low]: 0.8162571566800321
+self._BTC_ETH_array[68][open]: 0.7970409619802488
+self._BTC_ETH_array[68][close]: 0.7957816821644982
+self._BTC_ETH_array[68][volume]: 70.03498774
+
+Index 69 - Date: 2018-01-18T11:30:00
+self._BTC_ETH_array[69][date]: 1516271400.0
+self._BTC_ETH_array[69][high]: 0.8009098169159908
+self._BTC_ETH_array[69][low]: 0.8009098169159908
+self._BTC_ETH_array[69][open]: 0.7800600184643086
+self._BTC_ETH_array[69][close]: 0.7715779817773242
+self._BTC_ETH_array[69][volume]: 74.14710925
+
+Index 70 - Date: 2018-01-18T12:00:00
+self._BTC_ETH_array[70][date]: 1516273200.0
+self._BTC_ETH_array[70][high]: 0.8267476265043276
+self._BTC_ETH_array[70][low]: 0.8267476265043276
+self._BTC_ETH_array[70][open]: 0.8108496381660266
+self._BTC_ETH_array[70][close]: 0.805011105031588
+self._BTC_ETH_array[70][volume]: 102.46015027
+
+Index 71 - Date: 2018-01-18T12:30:00
+self._BTC_ETH_array[71][date]: 1516275000.0
+self._BTC_ETH_array[71][high]: 0.8603105049639678
+self._BTC_ETH_array[71][low]: 0.8603105049639678
+self._BTC_ETH_array[71][open]: 0.8359996868360317
+self._BTC_ETH_array[71][close]: 0.8485672907682549
+self._BTC_ETH_array[71][volume]: 112.35054616
+
+Index 72 - Date: 2018-01-18T13:00:00
+self._BTC_ETH_array[72][date]: 1516276800.0
+self._BTC_ETH_array[72][high]: 0.8060398775969203
+self._BTC_ETH_array[72][low]: 0.8060398775969203
+self._BTC_ETH_array[72][open]: 0.7846538930896011
+self._BTC_ETH_array[72][close]: 0.7887643912220185
+self._BTC_ETH_array[72][volume]: 126.88265561
+
+Index 73 - Date: 2018-01-18T13:30:00
+self._BTC_ETH_array[73][date]: 1516278600.0
+self._BTC_ETH_array[73][high]: 0.8154998448854365
+self._BTC_ETH_array[73][low]: 0.8154998448854365
+self._BTC_ETH_array[73][open]: 0.7900647031200516
+self._BTC_ETH_array[73][close]: 0.7931343509611439
+self._BTC_ETH_array[73][volume]: 152.1745271
+
+Index 74 - Date: 2018-01-18T14:00:00
+self._BTC_ETH_array[74][date]: 1516280400.0
+self._BTC_ETH_array[74][high]: 0.8197176448871049
+self._BTC_ETH_array[74][low]: 0.8197176448871049
+self._BTC_ETH_array[74][open]: 0.8016041022918039
+self._BTC_ETH_array[74][close]: 0.7985815406439358
+self._BTC_ETH_array[74][volume]: 108.74117118
+
+Index 75 - Date: 2018-01-18T14:30:00
+self._BTC_ETH_array[75][date]: 1516282200.0
+self._BTC_ETH_array[75][high]: 0.8482800904053676
+self._BTC_ETH_array[75][low]: 0.8482800904053676
+self._BTC_ETH_array[75][open]: 0.8265773210311895
+self._BTC_ETH_array[75][close]: 0.8238787154173638
+self._BTC_ETH_array[75][volume]: 114.71485126
+
+Index 76 - Date: 2018-01-18T15:00:00
+self._BTC_ETH_array[76][date]: 1516284000.0
+self._BTC_ETH_array[76][high]: 0.796998948871754
+self._BTC_ETH_array[76][low]: 0.796998948871754
+self._BTC_ETH_array[76][open]: 0.7767234344481042
+self._BTC_ETH_array[76][close]: 0.777479914088275
+self._BTC_ETH_array[76][volume]: 80.67513243
+
+Index 77 - Date: 2018-01-18T15:30:00
+self._BTC_ETH_array[77][date]: 1516285800.0
+self._BTC_ETH_array[77][high]: 0.7568522621244421
+self._BTC_ETH_array[77][low]: 0.7568522621244421
+self._BTC_ETH_array[77][open]: 0.7407622978673711
+self._BTC_ETH_array[77][close]: 0.7328798887504178
+self._BTC_ETH_array[77][volume]: 82.28054868
+
+Index 78 - Date: 2018-01-18T16:00:00
+self._BTC_ETH_array[78][date]: 1516287600.0
+self._BTC_ETH_array[78][high]: 0.8593767599842211
+self._BTC_ETH_array[78][low]: 0.8593767599842211
+self._BTC_ETH_array[78][open]: 0.8432266795086112
+self._BTC_ETH_array[78][close]: 0.8345221173112546
+self._BTC_ETH_array[78][volume]: 139.28829339
+
+Index 79 - Date: 2018-01-18T16:30:00
+self._BTC_ETH_array[79][date]: 1516289400.0
+self._BTC_ETH_array[79][high]: 0.8668108685930849
+self._BTC_ETH_array[79][low]: 0.8668108685930849
+self._BTC_ETH_array[79][open]: 0.8497097544148496
+self._BTC_ETH_array[79][close]: 0.8442331890017241
+self._BTC_ETH_array[79][volume]: 160.73365905
+
+Index 80 - Date: 2018-01-18T17:00:00
+self._BTC_ETH_array[80][date]: 1516291200.0
+self._BTC_ETH_array[80][high]: 0.8344944960862828
+self._BTC_ETH_array[80][low]: 0.8344944960862828
+self._BTC_ETH_array[80][open]: 0.8141901632167299
+self._BTC_ETH_array[80][close]: 0.8154605209372903
+self._BTC_ETH_array[80][volume]: 153.87597994
+
+Index 81 - Date: 2018-01-18T17:30:00
+self._BTC_ETH_array[81][date]: 1516293000.0
+self._BTC_ETH_array[81][high]: 0.8400368867119217
+self._BTC_ETH_array[81][low]: 0.8400368867119217
+self._BTC_ETH_array[81][open]: 0.8229116729359292
+self._BTC_ETH_array[81][close]: 0.8158365047366625
+self._BTC_ETH_array[81][volume]: 177.61032738
+
+Index 82 - Date: 2018-01-18T18:00:00
+self._BTC_ETH_array[82][date]: 1516294800.0
+self._BTC_ETH_array[82][high]: 0.9016473605933432
+self._BTC_ETH_array[82][low]: 0.9016473605933432
+self._BTC_ETH_array[82][open]: 0.881297827019127
+self._BTC_ETH_array[82][close]: 0.8764860646024744
+self._BTC_ETH_array[82][volume]: 69.90211189
+
+Index 83 - Date: 2018-01-18T18:30:00
+self._BTC_ETH_array[83][date]: 1516296600.0
+self._BTC_ETH_array[83][high]: 0.8607081505340578
+self._BTC_ETH_array[83][low]: 0.8607081505340578
+self._BTC_ETH_array[83][open]: 0.8379623030807565
+self._BTC_ETH_array[83][close]: 0.8412171144719087
+self._BTC_ETH_array[83][volume]: 89.23064629
+
+Index 84 - Date: 2018-01-18T19:00:00
+self._BTC_ETH_array[84][date]: 1516298400.0
+self._BTC_ETH_array[84][high]: 0.9627640741333762
+self._BTC_ETH_array[84][low]: 0.9627640741333762
+self._BTC_ETH_array[84][open]: 0.9290053310094868
+self._BTC_ETH_array[84][close]: 0.9468460317782423
+self._BTC_ETH_array[84][volume]: 120.27547002
+
+Index 85 - Date: 2018-01-18T19:30:00
+self._BTC_ETH_array[85][date]: 1516300200.0
+self._BTC_ETH_array[85][high]: 0.8894866280878312
+self._BTC_ETH_array[85][low]: 0.8894866280878312
+self._BTC_ETH_array[85][open]: 0.869150159014516
+self._BTC_ETH_array[85][close]: 0.8717956310030762
+self._BTC_ETH_array[85][volume]: 157.88574899
+
+Index 86 - Date: 2018-01-18T20:00:00
+self._BTC_ETH_array[86][date]: 1516302000.0
+self._BTC_ETH_array[86][high]: 0.9251132220645139
+self._BTC_ETH_array[86][low]: 0.9251132220645139
+self._BTC_ETH_array[86][open]: 0.900678667601519
+self._BTC_ETH_array[86][close]: 0.8999510890013369
+self._BTC_ETH_array[86][volume]: 151.98319724
+
+Index 87 - Date: 2018-01-18T20:30:00
+self._BTC_ETH_array[87][date]: 1516303800.0
+self._BTC_ETH_array[87][high]: 0.960187561438074
+self._BTC_ETH_array[87][low]: 0.960187561438074
+self._BTC_ETH_array[87][open]: 0.9432583733689904
+self._BTC_ETH_array[87][close]: 0.9393242595659281
+self._BTC_ETH_array[87][volume]: 62.88964969
+
+Index 88 - Date: 2018-01-18T21:00:00
+self._BTC_ETH_array[88][date]: 1516305600.0
+self._BTC_ETH_array[88][high]: 1.0135517720635574
+self._BTC_ETH_array[88][low]: 1.0135517720635574
+self._BTC_ETH_array[88][open]: 0.9937972853579131
+self._BTC_ETH_array[88][close]: 0.994120968909517
+self._BTC_ETH_array[88][volume]: 59.02968567
+
+Index 89 - Date: 2018-01-18T21:30:00
+self._BTC_ETH_array[89][date]: 1516307400.0
+self._BTC_ETH_array[89][high]: 1.0157452818547699
+self._BTC_ETH_array[89][low]: 1.0157452818547699
+self._BTC_ETH_array[89][open]: 0.9986135878954593
+self._BTC_ETH_array[89][close]: 0.9882053237402935
+self._BTC_ETH_array[89][volume]: 99.49686324
+
+Index 90 - Date: 2018-01-18T22:00:00
+self._BTC_ETH_array[90][date]: 1516309200.0
+self._BTC_ETH_array[90][high]: 0.9846109089869545
+self._BTC_ETH_array[90][low]: 0.9846109089869545
+self._BTC_ETH_array[90][open]: 0.9594690255958953
+self._BTC_ETH_array[90][close]: 0.963055947224679
+self._BTC_ETH_array[90][volume]: 162.37206458
+
+Index 91 - Date: 2018-01-18T22:30:00
+self._BTC_ETH_array[91][date]: 1516311000.0
+self._BTC_ETH_array[91][high]: 1.0490204514166785
+self._BTC_ETH_array[91][low]: 1.0490204514166785
+self._BTC_ETH_array[91][open]: 1.0272580088910854
+self._BTC_ETH_array[91][close]: 1.0208626042906352
+self._BTC_ETH_array[91][volume]: 181.82309736
+
+Index 92 - Date: 2018-01-18T23:00:00
+self._BTC_ETH_array[92][date]: 1516312800.0
+self._BTC_ETH_array[92][high]: 0.9800550461243827
+self._BTC_ETH_array[92][low]: 0.9800550461243827
+self._BTC_ETH_array[92][open]: 0.9460620972693581
+self._BTC_ETH_array[92][close]: 0.9468818024098556
+self._BTC_ETH_array[92][volume]: 144.53215085
+
+Index 93 - Date: 2018-01-18T23:30:00
+self._BTC_ETH_array[93][date]: 1516314600.0
+self._BTC_ETH_array[93][high]: 1.082350726455691
+self._BTC_ETH_array[93][low]: 1.082350726455691
+self._BTC_ETH_array[93][open]: 1.0544216588745705
+self._BTC_ETH_array[93][close]: 1.0488840574545262
+self._BTC_ETH_array[93][volume]: 171.76194013
+
+Index 94 - Date: 2018-01-19T00:00:00
+self._BTC_ETH_array[94][date]: 1516316400.0
+self._BTC_ETH_array[94][high]: 1.0098231212559778
+self._BTC_ETH_array[94][low]: 1.0098231212559778
+self._BTC_ETH_array[94][open]: 0.9862355797260356
+self._BTC_ETH_array[94][close]: 0.985935280431956
+self._BTC_ETH_array[94][volume]: 147.12301392
+
+Index 95 - Date: 2018-01-19T00:30:00
+self._BTC_ETH_array[95][date]: 1516318200.0
+self._BTC_ETH_array[95][high]: 1.0841422621944408
+self._BTC_ETH_array[95][low]: 1.0841422621944408
+self._BTC_ETH_array[95][open]: 1.0565374112967085
+self._BTC_ETH_array[95][close]: 1.0550254954723037
+self._BTC_ETH_array[95][volume]: 102.02899335
+
+Index 96 - Date: 2018-01-19T01:00:00
+self._BTC_ETH_array[96][date]: 1516320000.0
+self._BTC_ETH_array[96][high]: 1.13343295029953
+self._BTC_ETH_array[96][low]: 1.13343295029953
+self._BTC_ETH_array[96][open]: 1.098741378404339
+self._BTC_ETH_array[96][close]: 1.0974759751586207
+self._BTC_ETH_array[96][volume]: 43.10626715
+
+Index 97 - Date: 2018-01-19T01:30:00
+self._BTC_ETH_array[97][date]: 1516321800.0
+self._BTC_ETH_array[97][high]: 1.0916164368427594
+self._BTC_ETH_array[97][low]: 1.0916164368427594
+self._BTC_ETH_array[97][open]: 1.0727153935835643
+self._BTC_ETH_array[97][close]: 1.0682363848139975
+self._BTC_ETH_array[97][volume]: 97.30202727
+
+Index 98 - Date: 2018-01-19T02:00:00
+self._BTC_ETH_array[98][date]: 1516323600.0
+self._BTC_ETH_array[98][high]: 1.1594293933536082
+self._BTC_ETH_array[98][low]: 1.1594293933536082
+self._BTC_ETH_array[98][open]: 1.1270192417641118
+self._BTC_ETH_array[98][close]: 1.1217079390856761
+self._BTC_ETH_array[98][volume]: 61.29231017
+
+Index 99 - Date: 2018-01-19T02:30:00
+self._BTC_ETH_array[99][date]: 1516325400.0
+self._BTC_ETH_array[99][high]: 1.1334793320427474
+self._BTC_ETH_array[99][low]: 1.1334793320427474
+self._BTC_ETH_array[99][open]: 1.1013612823326087
+self._BTC_ETH_array[99][close]: 1.110688813679552
+self._BTC_ETH_array[99][volume]: 107.73528949
+
+Index 100 - Date: 2018-01-19T03:00:00
+self._BTC_ETH_array[100][date]: 1516327200.0
+self._BTC_ETH_array[100][high]: 1.1067385921124964
+self._BTC_ETH_array[100][low]: 1.1067385921124964
+self._BTC_ETH_array[100][open]: 1.0839442084558304
+self._BTC_ETH_array[100][close]: 1.0774858653098165
+self._BTC_ETH_array[100][volume]: 74.98673627
+
+Index 101 - Date: 2018-01-19T03:30:00
+self._BTC_ETH_array[101][date]: 1516329000.0
+self._BTC_ETH_array[101][high]: 1.1813326835737878
+self._BTC_ETH_array[101][low]: 1.1813326835737878
+self._BTC_ETH_array[101][open]: 1.1555588817070697
+self._BTC_ETH_array[101][close]: 1.1520873471678714
+self._BTC_ETH_array[101][volume]: 193.41303793
+
+Index 102 - Date: 2018-01-19T04:00:00
+self._BTC_ETH_array[102][date]: 1516330800.0
+self._BTC_ETH_array[102][high]: 1.194337437806225
+self._BTC_ETH_array[102][low]: 1.194337437806225
+self._BTC_ETH_array[102][open]: 1.1606943495056357
+self._BTC_ETH_array[102][close]: 1.1659805880167509
+self._BTC_ETH_array[102][volume]: 211.98495769
+
+Index 103 - Date: 2018-01-19T04:30:00
+self._BTC_ETH_array[103][date]: 1516332600.0
+self._BTC_ETH_array[103][high]: 1.2621289257255965
+self._BTC_ETH_array[103][low]: 1.2621289257255965
+self._BTC_ETH_array[103][open]: 1.2206262178158511
+self._BTC_ETH_array[103][close]: 1.2247606321018392
+self._BTC_ETH_array[103][volume]: 109.98808476
+
+Index 104 - Date: 2018-01-19T05:00:00
+self._BTC_ETH_array[104][date]: 1516334400.0
+self._BTC_ETH_array[104][high]: 1.2817531086742862
+self._BTC_ETH_array[104][low]: 1.2817531086742862
+self._BTC_ETH_array[104][open]: 1.2579470647656166
+self._BTC_ETH_array[104][close]: 1.2448107962375534
+self._BTC_ETH_array[104][volume]: 360.68007073
+
+Index 105 - Date: 2018-01-19T05:30:00
+self._BTC_ETH_array[105][date]: 1516336200.0
+self._BTC_ETH_array[105][high]: 1.141394019737744
+self._BTC_ETH_array[105][low]: 1.141394019737744
+self._BTC_ETH_array[105][open]: 1.1078728476198234
+self._BTC_ETH_array[105][close]: 1.109674176641573
+self._BTC_ETH_array[105][volume]: 159.52690963
+
+Index 106 - Date: 2018-01-19T06:00:00
+self._BTC_ETH_array[106][date]: 1516338000.0
+self._BTC_ETH_array[106][high]: 1.1949045272632244
+self._BTC_ETH_array[106][low]: 1.1949045272632244
+self._BTC_ETH_array[106][open]: 1.1622171824182075
+self._BTC_ETH_array[106][close]: 1.158580323518527
+self._BTC_ETH_array[106][volume]: 273.71535358
+
+Index 107 - Date: 2018-01-19T06:30:00
+self._BTC_ETH_array[107][date]: 1516339800.0
+self._BTC_ETH_array[107][high]: 1.225493590833751
+self._BTC_ETH_array[107][low]: 1.225493590833751
+self._BTC_ETH_array[107][open]: 1.1960707801488757
+self._BTC_ETH_array[107][close]: 1.21115753601954
+self._BTC_ETH_array[107][volume]: 81.01325062
+
+Index 108 - Date: 2018-01-19T07:00:00
+self._BTC_ETH_array[108][date]: 1516341600.0
+self._BTC_ETH_array[108][high]: 1.4060223013741453
+self._BTC_ETH_array[108][low]: 1.4060223013741453
+self._BTC_ETH_array[108][open]: 1.3820345519465385
+self._BTC_ETH_array[108][close]: 1.3673885852755485
+self._BTC_ETH_array[108][volume]: 182.3883421
+
+Index 109 - Date: 2018-01-19T07:30:00
+self._BTC_ETH_array[109][date]: 1516343400.0
+self._BTC_ETH_array[109][high]: 1.2182947548601666
+self._BTC_ETH_array[109][low]: 1.2182947548601666
+self._BTC_ETH_array[109][open]: 1.187409613753253
+self._BTC_ETH_array[109][close]: 1.1917540364672086
+self._BTC_ETH_array[109][volume]: 133.65540165
+
+Index 110 - Date: 2018-01-19T08:00:00
+self._BTC_ETH_array[110][date]: 1516345200.0
+self._BTC_ETH_array[110][high]: 1.124658710013706
+self._BTC_ETH_array[110][low]: 1.124658710013706
+self._BTC_ETH_array[110][open]: 1.1038327296142978
+self._BTC_ETH_array[110][close]: 1.1046094384106269
+self._BTC_ETH_array[110][volume]: 41.23136327
+
+Index 111 - Date: 2018-01-19T08:30:00
+self._BTC_ETH_array[111][date]: 1516347000.0
+self._BTC_ETH_array[111][high]: 1.38875896327257
+self._BTC_ETH_array[111][low]: 1.38875896327257
+self._BTC_ETH_array[111][open]: 1.3557478023160137
+self._BTC_ETH_array[111][close]: 1.3447813729388205
+self._BTC_ETH_array[111][volume]: 39.45973062
+
+Index 112 - Date: 2018-01-19T09:00:00
+self._BTC_ETH_array[112][date]: 1516348800.0
+self._BTC_ETH_array[112][high]: 1.1595813311222287
+self._BTC_ETH_array[112][low]: 1.1595813311222287
+self._BTC_ETH_array[112][open]: 1.1217429388335995
+self._BTC_ETH_array[112][close]: 1.1294594694230322
+self._BTC_ETH_array[112][volume]: 129.53382316
+
+Index 113 - Date: 2018-01-19T09:30:00
+self._BTC_ETH_array[113][date]: 1516350600.0
+self._BTC_ETH_array[113][high]: 1.1896486084467035
+self._BTC_ETH_array[113][low]: 1.1896486084467035
+self._BTC_ETH_array[113][open]: 1.1653568774837724
+self._BTC_ETH_array[113][close]: 1.1605399770857057
+self._BTC_ETH_array[113][volume]: 63.00385335
+
+Index 114 - Date: 2018-01-19T10:00:00
+self._BTC_ETH_array[114][date]: 1516352400.0
+self._BTC_ETH_array[114][high]: 1.1847306896566996
+self._BTC_ETH_array[114][low]: 1.1847306896566996
+self._BTC_ETH_array[114][open]: 1.1486372421934217
+self._BTC_ETH_array[114][close]: 1.1518782151300564
+self._BTC_ETH_array[114][volume]: 66.29613905
+
+Index 115 - Date: 2018-01-19T10:30:00
+self._BTC_ETH_array[115][date]: 1516354200.0
+self._BTC_ETH_array[115][high]: 1.2946680406653173
+self._BTC_ETH_array[115][low]: 1.2946680406653173
+self._BTC_ETH_array[115][open]: 1.261069344382514
+self._BTC_ETH_array[115][close]: 1.2602419466908206
+self._BTC_ETH_array[115][volume]: 80.38730143
+
+Index 116 - Date: 2018-01-19T11:00:00
+self._BTC_ETH_array[116][date]: 1516356000.0
+self._BTC_ETH_array[116][high]: 1.2105713315841955
+self._BTC_ETH_array[116][low]: 1.2105713315841955
+self._BTC_ETH_array[116][open]: 1.184670994207119
+self._BTC_ETH_array[116][close]: 1.1856510621832563
+self._BTC_ETH_array[116][volume]: 86.41656627
+
+Index 117 - Date: 2018-01-19T11:30:00
+self._BTC_ETH_array[117][date]: 1516357800.0
+self._BTC_ETH_array[117][high]: 1.2413125134420326
+self._BTC_ETH_array[117][low]: 1.2413125134420326
+self._BTC_ETH_array[117][open]: 1.2045688288112868
+self._BTC_ETH_array[117][close]: 1.203452767628927
+self._BTC_ETH_array[117][volume]: 73.49194713
+
+Index 118 - Date: 2018-01-19T12:00:00
+self._BTC_ETH_array[118][date]: 1516359600.0
+self._BTC_ETH_array[118][high]: 1.3010617226425145
+self._BTC_ETH_array[118][low]: 1.3010617226425145
+self._BTC_ETH_array[118][open]: 1.258419639652877
+self._BTC_ETH_array[118][close]: 1.2593685285124314
+self._BTC_ETH_array[118][volume]: 85.02957694
+
+Index 119 - Date: 2018-01-19T12:30:00
+self._BTC_ETH_array[119][date]: 1516361400.0
+self._BTC_ETH_array[119][high]: 1.1900720488121665
+self._BTC_ETH_array[119][low]: 1.1900720488121665
+self._BTC_ETH_array[119][open]: 1.1571290592745969
+self._BTC_ETH_array[119][close]: 1.1686974930117089
+self._BTC_ETH_array[119][volume]: 44.30402281
+
+Index 120 - Date: 2018-01-19T13:00:00
+self._BTC_ETH_array[120][date]: 1516363200.0
+self._BTC_ETH_array[120][high]: 1.2740732420074312
+self._BTC_ETH_array[120][low]: 1.2740732420074312
+self._BTC_ETH_array[120][open]: 1.2477975104289882
+self._BTC_ETH_array[120][close]: 1.2355912595180858
+self._BTC_ETH_array[120][volume]: 79.38130332
+
+Index 121 - Date: 2018-01-19T13:30:00
+self._BTC_ETH_array[121][date]: 1516365000.0
+self._BTC_ETH_array[121][high]: 1.2304293465343314
+self._BTC_ETH_array[121][low]: 1.2304293465343314
+self._BTC_ETH_array[121][open]: 1.2023241831028189
+self._BTC_ETH_array[121][close]: 1.199965330121279
+self._BTC_ETH_array[121][volume]: 46.55874363
+
+Index 122 - Date: 2018-01-19T14:00:00
+self._BTC_ETH_array[122][date]: 1516366800.0
+self._BTC_ETH_array[122][high]: 1.262839868096653
+self._BTC_ETH_array[122][low]: 1.262839868096653
+self._BTC_ETH_array[122][open]: 1.2348575536987811
+self._BTC_ETH_array[122][close]: 1.2340485833037824
+self._BTC_ETH_array[122][volume]: 63.51752656
+
+Index 123 - Date: 2018-01-19T14:30:00
+self._BTC_ETH_array[123][date]: 1516368600.0
+self._BTC_ETH_array[123][high]: 1.3331880404323013
+self._BTC_ETH_array[123][low]: 1.3331880404323013
+self._BTC_ETH_array[123][open]: 1.3056333742407253
+self._BTC_ETH_array[123][close]: 1.300743293429111
+self._BTC_ETH_array[123][volume]: 81.53441236
+
+Index 124 - Date: 2018-01-19T15:00:00
+self._BTC_ETH_array[124][date]: 1516370400.0
+self._BTC_ETH_array[124][high]: 1.2055952295415564
+self._BTC_ETH_array[124][low]: 1.2055952295415564
+self._BTC_ETH_array[124][open]: 1.1631545474217029
+self._BTC_ETH_array[124][close]: 1.1723543960389398
+self._BTC_ETH_array[124][volume]: 101.00695329
+
+Index 125 - Date: 2018-01-19T15:30:00
+self._BTC_ETH_array[125][date]: 1516372200.0
+self._BTC_ETH_array[125][high]: 1.2307726272204214
+self._BTC_ETH_array[125][low]: 1.2307726272204214
+self._BTC_ETH_array[125][open]: 1.1903110463106803
+self._BTC_ETH_array[125][close]: 1.1986398333062647
+self._BTC_ETH_array[125][volume]: 72.16113722
+
+Index 126 - Date: 2018-01-19T16:00:00
+self._BTC_ETH_array[126][date]: 1516374000.0
+self._BTC_ETH_array[126][high]: 1.2542265172307345
+self._BTC_ETH_array[126][low]: 1.2542265172307345
+self._BTC_ETH_array[126][open]: 1.2090369094432867
+self._BTC_ETH_array[126][close]: 1.2218590047864386
+self._BTC_ETH_array[126][volume]: 48.924123
+
+Index 127 - Date: 2018-01-19T16:30:00
+self._BTC_ETH_array[127][date]: 1516375800.0
+self._BTC_ETH_array[127][high]: 1.2518843669224609
+self._BTC_ETH_array[127][low]: 1.2518843669224609
+self._BTC_ETH_array[127][open]: 1.22581908997553
+self._BTC_ETH_array[127][close]: 1.2218967442324826
+self._BTC_ETH_array[127][volume]: 129.37751486
+
+Index 128 - Date: 2018-01-19T17:00:00
+self._BTC_ETH_array[128][date]: 1516377600.0
+self._BTC_ETH_array[128][high]: 1.1755481280488886
+self._BTC_ETH_array[128][low]: 1.1755481280488886
+self._BTC_ETH_array[128][open]: 1.1514004782838176
+self._BTC_ETH_array[128][close]: 1.1597865134293635
+self._BTC_ETH_array[128][volume]: 75.42997807
+
+Index 129 - Date: 2018-01-19T17:30:00
+self._BTC_ETH_array[129][date]: 1516379400.0
+self._BTC_ETH_array[129][high]: 1.3117737215557317
+self._BTC_ETH_array[129][low]: 1.3117737215557317
+self._BTC_ETH_array[129][open]: 1.2787808516657637
+self._BTC_ETH_array[129][close]: 1.2835669703921984
+self._BTC_ETH_array[129][volume]: 110.64030758
+
+Index 130 - Date: 2018-01-19T18:00:00
+self._BTC_ETH_array[130][date]: 1516381200.0
+self._BTC_ETH_array[130][high]: 1.3545818303605448
+self._BTC_ETH_array[130][low]: 1.3545818303605448
+self._BTC_ETH_array[130][open]: 1.3190754686695099
+self._BTC_ETH_array[130][close]: 1.3227599389224554
+self._BTC_ETH_array[130][volume]: 116.26785033
+
+Index 131 - Date: 2018-01-19T18:30:00
+self._BTC_ETH_array[131][date]: 1516383000.0
+self._BTC_ETH_array[131][high]: 1.2279615630694416
+self._BTC_ETH_array[131][low]: 1.2279615630694416
+self._BTC_ETH_array[131][open]: 1.193559313990092
+self._BTC_ETH_array[131][close]: 1.197588414350043
+self._BTC_ETH_array[131][volume]: 102.60169232
+
+Index 132 - Date: 2018-01-19T19:00:00
+self._BTC_ETH_array[132][date]: 1516384800.0
+self._BTC_ETH_array[132][high]: 1.2675922590641282
+self._BTC_ETH_array[132][low]: 1.2675922590641282
+self._BTC_ETH_array[132][open]: 1.2491806606722302
+self._BTC_ETH_array[132][close]: 1.245911472655675
+self._BTC_ETH_array[132][volume]: 76.97896532
+
+Index 133 - Date: 2018-01-19T19:30:00
+self._BTC_ETH_array[133][date]: 1516386600.0
+self._BTC_ETH_array[133][high]: 1.1514522383463652
+self._BTC_ETH_array[133][low]: 1.1514522383463652
+self._BTC_ETH_array[133][open]: 1.1202208397504256
+self._BTC_ETH_array[133][close]: 1.1252542979923683
+self._BTC_ETH_array[133][volume]: 102.07321891
+
+Index 134 - Date: 2018-01-19T20:00:00
+self._BTC_ETH_array[134][date]: 1516388400.0
+self._BTC_ETH_array[134][high]: 1.323905342296001
+self._BTC_ETH_array[134][low]: 1.323905342296001
+self._BTC_ETH_array[134][open]: 1.2896587999032396
+self._BTC_ETH_array[134][close]: 1.288912454468587
+self._BTC_ETH_array[134][volume]: 45.09399468
+
+Index 135 - Date: 2018-01-19T20:30:00
+self._BTC_ETH_array[135][date]: 1516390200.0
+self._BTC_ETH_array[135][high]: 1.2836873986426656
+self._BTC_ETH_array[135][low]: 1.2836873986426656
+self._BTC_ETH_array[135][open]: 1.259651794259723
+self._BTC_ETH_array[135][close]: 1.2563921641713727
+self._BTC_ETH_array[135][volume]: 71.08633792
+
+Index 136 - Date: 2018-01-19T21:00:00
+self._BTC_ETH_array[136][date]: 1516392000.0
+self._BTC_ETH_array[136][high]: 1.236736155434245
+self._BTC_ETH_array[136][low]: 1.236736155434245
+self._BTC_ETH_array[136][open]: 1.2102484596095036
+self._BTC_ETH_array[136][close]: 1.2023280538072996
+self._BTC_ETH_array[136][volume]: 55.2067574
+
+Index 137 - Date: 2018-01-19T21:30:00
+self._BTC_ETH_array[137][date]: 1516393800.0
+self._BTC_ETH_array[137][high]: 1.2349596025074951
+self._BTC_ETH_array[137][low]: 1.2349596025074951
+self._BTC_ETH_array[137][open]: 1.2108327947750395
+self._BTC_ETH_array[137][close]: 1.2057634990864101
+self._BTC_ETH_array[137][volume]: 100.18065207
+
+Index 138 - Date: 2018-01-19T22:00:00
+self._BTC_ETH_array[138][date]: 1516395600.0
+self._BTC_ETH_array[138][high]: 1.1930552934871141
+self._BTC_ETH_array[138][low]: 1.1930552934871141
+self._BTC_ETH_array[138][open]: 1.1653731789075432
+self._BTC_ETH_array[138][close]: 1.1800742512273754
+self._BTC_ETH_array[138][volume]: 55.02575082
+
+Index 139 - Date: 2018-01-19T22:30:00
+self._BTC_ETH_array[139][date]: 1516397400.0
+self._BTC_ETH_array[139][high]: 1.2033203562380206
+self._BTC_ETH_array[139][low]: 1.2033203562380206
+self._BTC_ETH_array[139][open]: 1.1831274524017419
+self._BTC_ETH_array[139][close]: 1.1742889055413162
+self._BTC_ETH_array[139][volume]: 47.29217049
+
+Index 140 - Date: 2018-01-19T23:00:00
+self._BTC_ETH_array[140][date]: 1516399200.0
+self._BTC_ETH_array[140][high]: 1.1915313673971628
+self._BTC_ETH_array[140][low]: 1.1915313673971628
+self._BTC_ETH_array[140][open]: 1.1603645806676532
+self._BTC_ETH_array[140][close]: 1.1689290010451827
+self._BTC_ETH_array[140][volume]: 39.72612472
+
+Index 141 - Date: 2018-01-19T23:30:00
+self._BTC_ETH_array[141][date]: 1516401000.0
+self._BTC_ETH_array[141][high]: 1.1852766008001256
+self._BTC_ETH_array[141][low]: 1.1852766008001256
+self._BTC_ETH_array[141][open]: 1.159049663440349
+self._BTC_ETH_array[141][close]: 1.1487019015692423
+self._BTC_ETH_array[141][volume]: 36.23840331
+
+Index 142 - Date: 2018-01-20T00:00:00
+self._BTC_ETH_array[142][date]: 1516402800.0
+self._BTC_ETH_array[142][high]: 1.181138931335119
+self._BTC_ETH_array[142][low]: 1.181138931335119
+self._BTC_ETH_array[142][open]: 1.1547452074609086
+self._BTC_ETH_array[142][close]: 1.1444163401319993
+self._BTC_ETH_array[142][volume]: 45.20925722
+
+Index 143 - Date: 2018-01-20T00:30:00
+self._BTC_ETH_array[143][date]: 1516404600.0
+self._BTC_ETH_array[143][high]: 1.1304069422880756
+self._BTC_ETH_array[143][low]: 1.1304069422880756
+self._BTC_ETH_array[143][open]: 1.093972561470694
+self._BTC_ETH_array[143][close]: 1.098269977380512
+self._BTC_ETH_array[143][volume]: 23.38844317
+
+Index 144 - Date: 2018-01-20T01:00:00
+self._BTC_ETH_array[144][date]: 1516406400.0
+self._BTC_ETH_array[144][high]: 1.1614366760134145
+self._BTC_ETH_array[144][low]: 1.1614366760134145
+self._BTC_ETH_array[144][open]: 1.1385270559060086
+self._BTC_ETH_array[144][close]: 1.1363537335183542
+self._BTC_ETH_array[144][volume]: 57.63385315
+
+Index 145 - Date: 2018-01-20T01:30:00
+self._BTC_ETH_array[145][date]: 1516408200.0
+self._BTC_ETH_array[145][high]: 1.1950254366420887
+self._BTC_ETH_array[145][low]: 1.1950254366420887
+self._BTC_ETH_array[145][open]: 1.154024746067577
+self._BTC_ETH_array[145][close]: 1.1640031553087775
+self._BTC_ETH_array[145][volume]: 27.61228996
+
+Index 146 - Date: 2018-01-20T02:00:00
+self._BTC_ETH_array[146][date]: 1516410000.0
+self._BTC_ETH_array[146][high]: 1.2153759556713097
+self._BTC_ETH_array[146][low]: 1.2153759556713097
+self._BTC_ETH_array[146][open]: 1.193815709995541
+self._BTC_ETH_array[146][close]: 1.1756141737948231
+self._BTC_ETH_array[146][volume]: 28.73857011
+
+Index 147 - Date: 2018-01-20T02:30:00
+self._BTC_ETH_array[147][date]: 1516411800.0
+self._BTC_ETH_array[147][high]: 1.197777853438407
+self._BTC_ETH_array[147][low]: 1.197777853438407
+self._BTC_ETH_array[147][open]: 1.1678006753695789
+self._BTC_ETH_array[147][close]: 1.1754760463925302
+self._BTC_ETH_array[147][volume]: 93.91045255
+
+Index 148 - Date: 2018-01-20T03:00:00
+self._BTC_ETH_array[148][date]: 1516413600.0
+self._BTC_ETH_array[148][high]: 1.1437513864265483
+self._BTC_ETH_array[148][low]: 1.1437513864265483
+self._BTC_ETH_array[148][open]: 1.115857362361956
+self._BTC_ETH_array[148][close]: 1.1099984720980942
+self._BTC_ETH_array[148][volume]: 33.04583227
+
+Index 149 - Date: 2018-01-20T03:30:00
+self._BTC_ETH_array[149][date]: 1516415400.0
+self._BTC_ETH_array[149][high]: 1.1376024675183105
+self._BTC_ETH_array[149][low]: 1.1376024675183105
+self._BTC_ETH_array[149][open]: 1.1027293470765949
+self._BTC_ETH_array[149][close]: 1.1122658257809324
+self._BTC_ETH_array[149][volume]: 54.03712301
+
+Index 150 - Date: 2018-01-20T04:00:00
+self._BTC_ETH_array[150][date]: 1516417200.0
+self._BTC_ETH_array[150][high]: 1.1717255670570457
+self._BTC_ETH_array[150][low]: 1.1717255670570457
+self._BTC_ETH_array[150][open]: 1.146573417404738
+self._BTC_ETH_array[150][close]: 1.1502110754550359
+self._BTC_ETH_array[150][volume]: 114.68373674
+
+Index 151 - Date: 2018-01-20T04:30:00
+self._BTC_ETH_array[151][date]: 1516419000.0
+self._BTC_ETH_array[151][high]: 1.1146013160264647
+self._BTC_ETH_array[151][low]: 1.1146013160264647
+self._BTC_ETH_array[151][open]: 1.0835175173783884
+self._BTC_ETH_array[151][close]: 1.0911573815086895
+self._BTC_ETH_array[151][volume]: 125.97197251
+
+Index 152 - Date: 2018-01-20T05:00:00
+self._BTC_ETH_array[152][date]: 1516420800.0
+self._BTC_ETH_array[152][high]: 1.1164954484259102
+self._BTC_ETH_array[152][low]: 1.1164954484259102
+self._BTC_ETH_array[152][open]: 1.0843081628507132
+self._BTC_ETH_array[152][close]: 1.0843205876924737
+self._BTC_ETH_array[152][volume]: 42.32451463
+
+Index 153 - Date: 2018-01-20T05:30:00
+self._BTC_ETH_array[153][date]: 1516422600.0
+self._BTC_ETH_array[153][high]: 1.0861842165781366
+self._BTC_ETH_array[153][low]: 1.0861842165781366
+self._BTC_ETH_array[153][open]: 1.0557709240377302
+self._BTC_ETH_array[153][close]: 1.0541073891401922
+self._BTC_ETH_array[153][volume]: 198.3461926
+
+Index 154 - Date: 2018-01-20T06:00:00
+self._BTC_ETH_array[154][date]: 1516424400.0
+self._BTC_ETH_array[154][high]: 1.0929253102289445
+self._BTC_ETH_array[154][low]: 1.0929253102289445
+self._BTC_ETH_array[154][open]: 1.0634315125008984
+self._BTC_ETH_array[154][close]: 1.0661562585047333
+self._BTC_ETH_array[154][volume]: 201.57603113
+
+Index 155 - Date: 2018-01-20T06:30:00
+self._BTC_ETH_array[155][date]: 1516426200.0
+self._BTC_ETH_array[155][high]: 1.0411569815601283
+self._BTC_ETH_array[155][low]: 1.0411569815601283
+self._BTC_ETH_array[155][open]: 1.0179798890402516
+self._BTC_ETH_array[155][close]: 1.0209449285747014
+self._BTC_ETH_array[155][volume]: 136.82458331
+
+Index 156 - Date: 2018-01-20T07:00:00
+self._BTC_ETH_array[156][date]: 1516428000.0
+self._BTC_ETH_array[156][high]: 1.0994533389284444
+self._BTC_ETH_array[156][low]: 1.0994533389284444
+self._BTC_ETH_array[156][open]: 1.0748553620672376
+self._BTC_ETH_array[156][close]: 1.0687995147595
+self._BTC_ETH_array[156][volume]: 133.22127636
+
+Index 157 - Date: 2018-01-20T07:30:00
+self._BTC_ETH_array[157][date]: 1516429800.0
+self._BTC_ETH_array[157][high]: 1.0670056735297668
+self._BTC_ETH_array[157][low]: 1.0670056735297668
+self._BTC_ETH_array[157][open]: 1.0401017494567455
+self._BTC_ETH_array[157][close]: 1.0457256988641002
+self._BTC_ETH_array[157][volume]: 63.59490837
+
+Index 158 - Date: 2018-01-20T08:00:00
+self._BTC_ETH_array[158][date]: 1516431600.0
+self._BTC_ETH_array[158][high]: 0.9984478172589589
+self._BTC_ETH_array[158][low]: 0.9984478172589589
+self._BTC_ETH_array[158][open]: 0.9747138976207363
+self._BTC_ETH_array[158][close]: 0.9700598068173011
+self._BTC_ETH_array[158][volume]: 67.07627115
+
+Index 159 - Date: 2018-01-20T08:30:00
+self._BTC_ETH_array[159][date]: 1516433400.0
+self._BTC_ETH_array[159][high]: 1.0439684669666844
+self._BTC_ETH_array[159][low]: 1.0439684669666844
+self._BTC_ETH_array[159][open]: 1.0288114651468048
+self._BTC_ETH_array[159][close]: 1.010466255105895
+self._BTC_ETH_array[159][volume]: 43.99623481
+
+Index 160 - Date: 2018-01-20T09:00:00
+self._BTC_ETH_array[160][date]: 1516435200.0
+self._BTC_ETH_array[160][high]: 1.011325028909294
+self._BTC_ETH_array[160][low]: 1.011325028909294
+self._BTC_ETH_array[160][open]: 0.9839907897019066
+self._BTC_ETH_array[160][close]: 0.9858001805151966
+self._BTC_ETH_array[160][volume]: 57.30045961
+
+Index 161 - Date: 2018-01-20T09:30:00
+self._BTC_ETH_array[161][date]: 1516437000.0
+self._BTC_ETH_array[161][high]: 1.031146232312657
+self._BTC_ETH_array[161][low]: 1.031146232312657
+self._BTC_ETH_array[161][open]: 1.0168535892310047
+self._BTC_ETH_array[161][close]: 1.0098381710707869
+self._BTC_ETH_array[161][volume]: 311.81287906
+
+Index 162 - Date: 2018-01-20T10:00:00
+self._BTC_ETH_array[162][date]: 1516438800.0
+self._BTC_ETH_array[162][high]: 1.0378710486771199
+self._BTC_ETH_array[162][low]: 1.0378710486771199
+self._BTC_ETH_array[162][open]: 1.0029061481914638
+self._BTC_ETH_array[162][close]: 1.005334288086003
+self._BTC_ETH_array[162][volume]: 96.19172404
+
+Index 163 - Date: 2018-01-20T10:30:00
+self._BTC_ETH_array[163][date]: 1516440600.0
+self._BTC_ETH_array[163][high]: 1.0189932293734891
+self._BTC_ETH_array[163][low]: 1.0189932293734891
+self._BTC_ETH_array[163][open]: 0.9933252263706618
+self._BTC_ETH_array[163][close]: 0.9843400075927834
+self._BTC_ETH_array[163][volume]: 58.64590313
+
+Index 164 - Date: 2018-01-20T11:00:00
+self._BTC_ETH_array[164][date]: 1516442400.0
+self._BTC_ETH_array[164][high]: 0.9688094223390703
+self._BTC_ETH_array[164][low]: 0.9688094223390703
+self._BTC_ETH_array[164][open]: 0.9517065760053306
+self._BTC_ETH_array[164][close]: 0.9463191601579017
+self._BTC_ETH_array[164][volume]: 48.14228573
+
+Index 165 - Date: 2018-01-20T11:30:00
+self._BTC_ETH_array[165][date]: 1516444200.0
+self._BTC_ETH_array[165][high]: 1.0041833681795658
+self._BTC_ETH_array[165][low]: 1.0041833681795658
+self._BTC_ETH_array[165][open]: 0.9772599117621903
+self._BTC_ETH_array[165][close]: 0.9799855847913266
+self._BTC_ETH_array[165][volume]: 34.62015765
+
+Index 166 - Date: 2018-01-20T12:00:00
+self._BTC_ETH_array[166][date]: 1516446000.0
+self._BTC_ETH_array[166][high]: 0.9688027827834577
+self._BTC_ETH_array[166][low]: 0.9688027827834577
+self._BTC_ETH_array[166][open]: 0.9456359809019145
+self._BTC_ETH_array[166][close]: 0.9413648612633811
+self._BTC_ETH_array[166][volume]: 19.99360022
+
+Index 167 - Date: 2018-01-20T12:30:00
+self._BTC_ETH_array[167][date]: 1516447800.0
+self._BTC_ETH_array[167][high]: 0.9672580362050299
+self._BTC_ETH_array[167][low]: 0.9672580362050299
+self._BTC_ETH_array[167][open]: 0.9362276980810005
+self._BTC_ETH_array[167][close]: 0.9494267897794798
+self._BTC_ETH_array[167][volume]: 31.23150787
+
+Index 168 - Date: 2018-01-20T13:00:00
+self._BTC_ETH_array[168][date]: 1516449600.0
+self._BTC_ETH_array[168][high]: 1.0002710528200989
+self._BTC_ETH_array[168][low]: 1.0002710528200989
+self._BTC_ETH_array[168][open]: 0.9672200316772349
+self._BTC_ETH_array[168][close]: 0.9728222390366128
+self._BTC_ETH_array[168][volume]: 18.0404266
+
+Index 169 - Date: 2018-01-20T13:30:00
+self._BTC_ETH_array[169][date]: 1516451400.0
+self._BTC_ETH_array[169][high]: 0.9641627475708776
+self._BTC_ETH_array[169][low]: 0.9641627475708776
+self._BTC_ETH_array[169][open]: 0.9384228515843088
+self._BTC_ETH_array[169][close]: 0.9356925940053946
+self._BTC_ETH_array[169][volume]: 71.03572286
+
+Index 170 - Date: 2018-01-20T14:00:00
+self._BTC_ETH_array[170][date]: 1516453200.0
+self._BTC_ETH_array[170][high]: 0.9187881197781227
+self._BTC_ETH_array[170][low]: 0.9187881197781227
+self._BTC_ETH_array[170][open]: 0.8939525556218373
+self._BTC_ETH_array[170][close]: 0.8957883288152882
+self._BTC_ETH_array[170][volume]: 20.76094434
+
+Index 171 - Date: 2018-01-20T14:30:00
+self._BTC_ETH_array[171][date]: 1516455000.0
+self._BTC_ETH_array[171][high]: 0.8997209351248903
+self._BTC_ETH_array[171][low]: 0.8997209351248903
+self._BTC_ETH_array[171][open]: 0.8819806077573866
+self._BTC_ETH_array[171][close]: 0.8828172914315943
+self._BTC_ETH_array[171][volume]: 34.05236791
+
+Index 172 - Date: 2018-01-20T15:00:00
+self._BTC_ETH_array[172][date]: 1516456800.0
+self._BTC_ETH_array[172][high]: 0.9208115624835157
+self._BTC_ETH_array[172][low]: 0.9208115624835157
+self._BTC_ETH_array[172][open]: 0.897709544094273
+self._BTC_ETH_array[172][close]: 0.8945199813238911
+self._BTC_ETH_array[172][volume]: 49.89694364
+
+Index 173 - Date: 2018-01-20T15:30:00
+self._BTC_ETH_array[173][date]: 1516458600.0
+self._BTC_ETH_array[173][high]: 0.9277618165826127
+self._BTC_ETH_array[173][low]: 0.9277618165826127
+self._BTC_ETH_array[173][open]: 0.9025920336726297
+self._BTC_ETH_array[173][close]: 0.9057204523520085
+self._BTC_ETH_array[173][volume]: 17.38416887
+
+Index 174 - Date: 2018-01-20T16:00:00
+self._BTC_ETH_array[174][date]: 1516460400.0
+self._BTC_ETH_array[174][high]: 0.9071559956264227
+self._BTC_ETH_array[174][low]: 0.9071559956264227
+self._BTC_ETH_array[174][open]: 0.8853282111127425
+self._BTC_ETH_array[174][close]: 0.8887393075166388
+self._BTC_ETH_array[174][volume]: 28.87703276
+
+Index 175 - Date: 2018-01-20T16:30:00
+self._BTC_ETH_array[175][date]: 1516462200.0
+self._BTC_ETH_array[175][high]: 0.8825245252446406
+self._BTC_ETH_array[175][low]: 0.8825245252446406
+self._BTC_ETH_array[175][open]: 0.865052640077148
+self._BTC_ETH_array[175][close]: 0.8653631268624234
+self._BTC_ETH_array[175][volume]: 45.44435344
+
+Index 176 - Date: 2018-01-20T17:00:00
+self._BTC_ETH_array[176][date]: 1516464000.0
+self._BTC_ETH_array[176][high]: 0.8608727941864583
+self._BTC_ETH_array[176][low]: 0.8608727941864583
+self._BTC_ETH_array[176][open]: 0.8469582337914721
+self._BTC_ETH_array[176][close]: 0.8363820704041485
+self._BTC_ETH_array[176][volume]: 38.81135187
+
+Index 177 - Date: 2018-01-20T17:30:00
+self._BTC_ETH_array[177][date]: 1516465800.0
+self._BTC_ETH_array[177][high]: 0.9036370630732067
+self._BTC_ETH_array[177][low]: 0.9036370630732067
+self._BTC_ETH_array[177][open]: 0.8844318228643349
+self._BTC_ETH_array[177][close]: 0.8765098109379443
+self._BTC_ETH_array[177][volume]: 51.88161842
+
+Index 178 - Date: 2018-01-20T18:00:00
+self._BTC_ETH_array[178][date]: 1516467600.0
+self._BTC_ETH_array[178][high]: 0.9187861050592098
+self._BTC_ETH_array[178][low]: 0.9187861050592098
+self._BTC_ETH_array[178][open]: 0.9001464154491147
+self._BTC_ETH_array[178][close]: 0.9023182734266162
+self._BTC_ETH_array[178][volume]: 38.81094321
+
+Index 179 - Date: 2018-01-20T18:30:00
+self._BTC_ETH_array[179][date]: 1516469400.0
+self._BTC_ETH_array[179][high]: 0.8746830456217487
+self._BTC_ETH_array[179][low]: 0.8746830456217487
+self._BTC_ETH_array[179][open]: 0.8484599292196566
+self._BTC_ETH_array[179][close]: 0.8509247450801174
+self._BTC_ETH_array[179][volume]: 34.81798683
+
+Index 180 - Date: 2018-01-20T19:00:00
+self._BTC_ETH_array[180][date]: 1516471200.0
+self._BTC_ETH_array[180][high]: 0.8427173097446152
+self._BTC_ETH_array[180][low]: 0.8427173097446152
+self._BTC_ETH_array[180][open]: 0.8197298949770224
+self._BTC_ETH_array[180][close]: 0.8229375596484869
+self._BTC_ETH_array[180][volume]: 175.44474631
+
+Index 181 - Date: 2018-01-20T19:30:00
+self._BTC_ETH_array[181][date]: 1516473000.0
+self._BTC_ETH_array[181][high]: 0.8568818287832847
+self._BTC_ETH_array[181][low]: 0.8568818287832847
+self._BTC_ETH_array[181][open]: 0.8434396818617756
+self._BTC_ETH_array[181][close]: 0.841245613811375
+self._BTC_ETH_array[181][volume]: 48.33427249
+
+Index 182 - Date: 2018-01-20T20:00:00
+self._BTC_ETH_array[182][date]: 1516474800.0
+self._BTC_ETH_array[182][high]: 0.884201633307424
+self._BTC_ETH_array[182][low]: 0.884201633307424
+self._BTC_ETH_array[182][open]: 0.8567835852256949
+self._BTC_ETH_array[182][close]: 0.8683401019918081
+self._BTC_ETH_array[182][volume]: 47.03641731
+
+Index 183 - Date: 2018-01-20T20:30:00
+self._BTC_ETH_array[183][date]: 1516476600.0
+self._BTC_ETH_array[183][high]: 0.8522879366170344
+self._BTC_ETH_array[183][low]: 0.8522879366170344
+self._BTC_ETH_array[183][open]: 0.8279349675747985
+self._BTC_ETH_array[183][close]: 0.8385474109768934
+self._BTC_ETH_array[183][volume]: 40.81031641
+
+Index 184 - Date: 2018-01-20T21:00:00
+self._BTC_ETH_array[184][date]: 1516478400.0
+self._BTC_ETH_array[184][high]: 0.861238522705482
+self._BTC_ETH_array[184][low]: 0.861238522705482
+self._BTC_ETH_array[184][open]: 0.8313681863760122
+self._BTC_ETH_array[184][close]: 0.83956570081655
+self._BTC_ETH_array[184][volume]: 41.30201072
+
+Index 185 - Date: 2018-01-20T21:30:00
+self._BTC_ETH_array[185][date]: 1516480200.0
+self._BTC_ETH_array[185][high]: 0.8665277268790182
+self._BTC_ETH_array[185][low]: 0.8665277268790182
+self._BTC_ETH_array[185][open]: 0.8428651999098837
+self._BTC_ETH_array[185][close]: 0.8442501174630686
+self._BTC_ETH_array[185][volume]: 26.19509377
+
+Index 186 - Date: 2018-01-20T22:00:00
+self._BTC_ETH_array[186][date]: 1516482000.0
+self._BTC_ETH_array[186][high]: 0.8414437170293602
+self._BTC_ETH_array[186][low]: 0.8414437170293602
+self._BTC_ETH_array[186][open]: 0.816845053949909
+self._BTC_ETH_array[186][close]: 0.8273408487526517
+self._BTC_ETH_array[186][volume]: 12.09397755
+
+Index 187 - Date: 2018-01-20T22:30:00
+self._BTC_ETH_array[187][date]: 1516483800.0
+self._BTC_ETH_array[187][high]: 0.7958053501076606
+self._BTC_ETH_array[187][low]: 0.7958053501076606
+self._BTC_ETH_array[187][open]: 0.7768952715048487
+self._BTC_ETH_array[187][close]: 0.7762275046749346
+self._BTC_ETH_array[187][volume]: 23.96786042
+
+Index 188 - Date: 2018-01-20T23:00:00
+self._BTC_ETH_array[188][date]: 1516485600.0
+self._BTC_ETH_array[188][high]: 0.8227074735799594
+self._BTC_ETH_array[188][low]: 0.8227074735799594
+self._BTC_ETH_array[188][open]: 0.8020950537760299
+self._BTC_ETH_array[188][close]: 0.8039560196687913
+self._BTC_ETH_array[188][volume]: 18.13128002
+
+Index 189 - Date: 2018-01-20T23:30:00
+self._BTC_ETH_array[189][date]: 1516487400.0
+self._BTC_ETH_array[189][high]: 0.7950703609402813
+self._BTC_ETH_array[189][low]: 0.7950703609402813
+self._BTC_ETH_array[189][open]: 0.7769217339972706
+self._BTC_ETH_array[189][close]: 0.7788267840923602
+self._BTC_ETH_array[189][volume]: 35.51696174
+
+Index 190 - Date: 2018-01-21T00:00:00
+self._BTC_ETH_array[190][date]: 1516489200.0
+self._BTC_ETH_array[190][high]: 0.8085849781344769
+self._BTC_ETH_array[190][low]: 0.8085849781344769
+self._BTC_ETH_array[190][open]: 0.7901154934656951
+self._BTC_ETH_array[190][close]: 0.783745213632222
+self._BTC_ETH_array[190][volume]: 36.11347201
+
+Index 191 - Date: 2018-01-21T00:30:00
+self._BTC_ETH_array[191][date]: 1516491000.0
+self._BTC_ETH_array[191][high]: 0.8222835754604151
+self._BTC_ETH_array[191][low]: 0.8222835754604151
+self._BTC_ETH_array[191][open]: 0.798285401693812
+self._BTC_ETH_array[191][close]: 0.8003735621278455
+self._BTC_ETH_array[191][volume]: 34.56791836
+
+Index 192 - Date: 2018-01-21T01:00:00
+self._BTC_ETH_array[192][date]: 1516492800.0
+self._BTC_ETH_array[192][high]: 0.8329587182638695
+self._BTC_ETH_array[192][low]: 0.8329587182638695
+self._BTC_ETH_array[192][open]: 0.8158992684124157
+self._BTC_ETH_array[192][close]: 0.8121713212406021
+self._BTC_ETH_array[192][volume]: 211.29467735
+
+Index 193 - Date: 2018-01-21T01:30:00
+self._BTC_ETH_array[193][date]: 1516494600.0
+self._BTC_ETH_array[193][high]: 0.8141004538170076
+self._BTC_ETH_array[193][low]: 0.8141004538170076
+self._BTC_ETH_array[193][open]: 0.7890134971311938
+self._BTC_ETH_array[193][close]: 0.7865523075770582
+self._BTC_ETH_array[193][volume]: 51.52778356
+
+Index 194 - Date: 2018-01-21T02:00:00
+self._BTC_ETH_array[194][date]: 1516496400.0
+self._BTC_ETH_array[194][high]: 0.78782197593685
+self._BTC_ETH_array[194][low]: 0.78782197593685
+self._BTC_ETH_array[194][open]: 0.7653640588031138
+self._BTC_ETH_array[194][close]: 0.7658782251707724
+self._BTC_ETH_array[194][volume]: 25.34053979
+
+Index 195 - Date: 2018-01-21T02:30:00
+self._BTC_ETH_array[195][date]: 1516498200.0
+self._BTC_ETH_array[195][high]: 0.7962287497811975
+self._BTC_ETH_array[195][low]: 0.7962287497811975
+self._BTC_ETH_array[195][open]: 0.7784618339087216
+self._BTC_ETH_array[195][close]: 0.7760084605378322
+self._BTC_ETH_array[195][volume]: 41.82686884
+
+Index 196 - Date: 2018-01-21T03:00:00
+self._BTC_ETH_array[196][date]: 1516500000.0
+self._BTC_ETH_array[196][high]: 0.7929019099601775
+self._BTC_ETH_array[196][low]: 0.7929019099601775
+self._BTC_ETH_array[196][open]: 0.7772261130622964
+self._BTC_ETH_array[196][close]: 0.7688139958089896
+self._BTC_ETH_array[196][volume]: 31.36582436
+
+Index 197 - Date: 2018-01-21T03:30:00
+self._BTC_ETH_array[197][date]: 1516501800.0
+self._BTC_ETH_array[197][high]: 0.756643112388823
+self._BTC_ETH_array[197][low]: 0.756643112388823
+self._BTC_ETH_array[197][open]: 0.7433615879605163
+self._BTC_ETH_array[197][close]: 0.7343212511117634
+self._BTC_ETH_array[197][volume]: 37.58837418
+
+Index 198 - Date: 2018-01-21T04:00:00
+self._BTC_ETH_array[198][date]: 1516503600.0
+self._BTC_ETH_array[198][high]: 0.7669110560633791
+self._BTC_ETH_array[198][low]: 0.7669110560633791
+self._BTC_ETH_array[198][open]: 0.7571117931851935
+self._BTC_ETH_array[198][close]: 0.7477865275355604
+self._BTC_ETH_array[198][volume]: 65.38706386
+
+Index 199 - Date: 2018-01-21T04:30:00
+self._BTC_ETH_array[199][date]: 1516505400.0
+self._BTC_ETH_array[199][high]: 0.7796093654789742
+self._BTC_ETH_array[199][low]: 0.7796093654789742
+self._BTC_ETH_array[199][open]: 0.7581193889222587
+self._BTC_ETH_array[199][close]: 0.7549904025049897
+self._BTC_ETH_array[199][volume]: 202.00688241
+
+Index 200 - Date: 2018-01-21T05:00:00
+self._BTC_ETH_array[200][date]: 1516507200.0
+self._BTC_ETH_array[200][high]: 0.789011808149107
+self._BTC_ETH_array[200][low]: 0.789011808149107
+self._BTC_ETH_array[200][open]: 0.7710304563797905
+self._BTC_ETH_array[200][close]: 0.7713023683674325
+self._BTC_ETH_array[200][volume]: 55.7791487
+
+Index 201 - Date: 2018-01-21T05:30:00
+self._BTC_ETH_array[201][date]: 1516509000.0
+self._BTC_ETH_array[201][high]: 0.8004626719889766
+self._BTC_ETH_array[201][low]: 0.8004626719889766
+self._BTC_ETH_array[201][open]: 0.7693904782903184
+self._BTC_ETH_array[201][close]: 0.7814104126477392
+self._BTC_ETH_array[201][volume]: 45.77981265
+
+Index 202 - Date: 2018-01-21T06:00:00
+self._BTC_ETH_array[202][date]: 1516510800.0
+self._BTC_ETH_array[202][high]: 0.7937921200597045
+self._BTC_ETH_array[202][low]: 0.7937921200597045
+self._BTC_ETH_array[202][open]: 0.7757037101075769
+self._BTC_ETH_array[202][close]: 0.7743507660448596
+self._BTC_ETH_array[202][volume]: 63.06721482
+
+Index 203 - Date: 2018-01-21T06:30:00
+self._BTC_ETH_array[203][date]: 1516512600.0
+self._BTC_ETH_array[203][high]: 0.8098115174572917
+self._BTC_ETH_array[203][low]: 0.8098115174572917
+self._BTC_ETH_array[203][open]: 0.7815331935712245
+self._BTC_ETH_array[203][close]: 0.7916987026538417
+self._BTC_ETH_array[203][volume]: 23.39054431
+
+Index 204 - Date: 2018-01-21T07:00:00
+self._BTC_ETH_array[204][date]: 1516514400.0
+self._BTC_ETH_array[204][high]: 0.8071258696990977
+self._BTC_ETH_array[204][low]: 0.8071258696990977
+self._BTC_ETH_array[204][open]: 0.7815255510260194
+self._BTC_ETH_array[204][close]: 0.7902921689864737
+self._BTC_ETH_array[204][volume]: 26.00277768
+
+Index 205 - Date: 2018-01-21T07:30:00
+self._BTC_ETH_array[205][date]: 1516516200.0
+self._BTC_ETH_array[205][high]: 0.8040770532279514
+self._BTC_ETH_array[205][low]: 0.8040770532279514
+self._BTC_ETH_array[205][open]: 0.7869113347690141
+self._BTC_ETH_array[205][close]: 0.7762408509482279
+self._BTC_ETH_array[205][volume]: 28.18749585
+
+Index 206 - Date: 2018-01-21T08:00:00
+self._BTC_ETH_array[206][date]: 1516518000.0
+self._BTC_ETH_array[206][high]: 0.783140955031395
+self._BTC_ETH_array[206][low]: 0.783140955031395
+self._BTC_ETH_array[206][open]: 0.7669210972121375
+self._BTC_ETH_array[206][close]: 0.7678470302097992
+self._BTC_ETH_array[206][volume]: 33.70139409
+
+Index 207 - Date: 2018-01-21T08:30:00
+self._BTC_ETH_array[207][date]: 1516519800.0
+self._BTC_ETH_array[207][high]: 0.8325299258432115
+self._BTC_ETH_array[207][low]: 0.8325299258432115
+self._BTC_ETH_array[207][open]: 0.8100594618330859
+self._BTC_ETH_array[207][close]: 0.8123188747298196
+self._BTC_ETH_array[207][volume]: 87.53820565
+
+Index 208 - Date: 2018-01-21T09:00:00
+self._BTC_ETH_array[208][date]: 1516521600.0
+self._BTC_ETH_array[208][high]: 0.8559089564750251
+self._BTC_ETH_array[208][low]: 0.8559089564750251
+self._BTC_ETH_array[208][open]: 0.8310626143822432
+self._BTC_ETH_array[208][close]: 0.8345895076278301
+self._BTC_ETH_array[208][volume]: 29.38199827
+
+Index 209 - Date: 2018-01-21T09:30:00
+self._BTC_ETH_array[209][date]: 1516523400.0
+self._BTC_ETH_array[209][high]: 0.7950777947865401
+self._BTC_ETH_array[209][low]: 0.7950777947865401
+self._BTC_ETH_array[209][open]: 0.7716649844365993
+self._BTC_ETH_array[209][close]: 0.7707049267634257
+self._BTC_ETH_array[209][volume]: 17.43102149
+
+Index 210 - Date: 2018-01-21T10:00:00
+self._BTC_ETH_array[210][date]: 1516525200.0
+self._BTC_ETH_array[210][high]: 0.8357200064944268
+self._BTC_ETH_array[210][low]: 0.8357200064944268
+self._BTC_ETH_array[210][open]: 0.8166862121465838
+self._BTC_ETH_array[210][close]: 0.8141287429003197
+self._BTC_ETH_array[210][volume]: 97.62011819
+
+Index 211 - Date: 2018-01-21T10:30:00
+self._BTC_ETH_array[211][date]: 1516527000.0
+self._BTC_ETH_array[211][high]: 0.7962545112285236
+self._BTC_ETH_array[211][low]: 0.7962545112285236
+self._BTC_ETH_array[211][open]: 0.7801217573321134
+self._BTC_ETH_array[211][close]: 0.781155832307272
+self._BTC_ETH_array[211][volume]: 52.85717734
+
+Index 212 - Date: 2018-01-21T11:00:00
+self._BTC_ETH_array[212][date]: 1516528800.0
+self._BTC_ETH_array[212][high]: 0.8790800474137489
+self._BTC_ETH_array[212][low]: 0.8790800474137489
+self._BTC_ETH_array[212][open]: 0.8646182949257383
+self._BTC_ETH_array[212][close]: 0.860851023066348
+self._BTC_ETH_array[212][volume]: 59.69637233
+
+Index 213 - Date: 2018-01-21T11:30:00
+self._BTC_ETH_array[213][date]: 1516530600.0
+self._BTC_ETH_array[213][high]: 0.8869257084766193
+self._BTC_ETH_array[213][low]: 0.8869257084766193
+self._BTC_ETH_array[213][open]: 0.8687124451969276
+self._BTC_ETH_array[213][close]: 0.8624369102336348
+self._BTC_ETH_array[213][volume]: 111.47125977
+
+Index 214 - Date: 2018-01-21T12:00:00
+self._BTC_ETH_array[214][date]: 1516532400.0
+self._BTC_ETH_array[214][high]: 0.7829725459178837
+self._BTC_ETH_array[214][low]: 0.7829725459178837
+self._BTC_ETH_array[214][open]: 0.7615401150609983
+self._BTC_ETH_array[214][close]: 0.7648300096525362
+self._BTC_ETH_array[214][volume]: 43.19668461
+
+Index 215 - Date: 2018-01-21T12:30:00
+self._BTC_ETH_array[215][date]: 1516534200.0
+self._BTC_ETH_array[215][high]: 0.8299030851184306
+self._BTC_ETH_array[215][low]: 0.8299030851184306
+self._BTC_ETH_array[215][open]: 0.8111228325797154
+self._BTC_ETH_array[215][close]: 0.8122231116369517
+self._BTC_ETH_array[215][volume]: 39.60101694
+
+Index 216 - Date: 2018-01-21T13:00:00
+self._BTC_ETH_array[216][date]: 1516536000.0
+self._BTC_ETH_array[216][high]: 0.8479551222959945
+self._BTC_ETH_array[216][low]: 0.8479551222959945
+self._BTC_ETH_array[216][open]: 0.8268234335401452
+self._BTC_ETH_array[216][close]: 0.8335496577308137
+self._BTC_ETH_array[216][volume]: 85.86390216
+
+Index 217 - Date: 2018-01-21T13:30:00
+self._BTC_ETH_array[217][date]: 1516537800.0
+self._BTC_ETH_array[217][high]: 0.8401515179020205
+self._BTC_ETH_array[217][low]: 0.8401515179020205
+self._BTC_ETH_array[217][open]: 0.8224699123934645
+self._BTC_ETH_array[217][close]: 0.8212441775047117
+self._BTC_ETH_array[217][volume]: 106.62141376
+
+Index 218 - Date: 2018-01-21T14:00:00
+self._BTC_ETH_array[218][date]: 1516539600.0
+self._BTC_ETH_array[218][high]: 0.827472342045816
+self._BTC_ETH_array[218][low]: 0.827472342045816
+self._BTC_ETH_array[218][open]: 0.8021051344482959
+self._BTC_ETH_array[218][close]: 0.8034036129292563
+self._BTC_ETH_array[218][volume]: 38.79061216
+
+Index 219 - Date: 2018-01-21T14:30:00
+self._BTC_ETH_array[219][date]: 1516541400.0
+self._BTC_ETH_array[219][high]: 0.8636795698250695
+self._BTC_ETH_array[219][low]: 0.8636795698250695
+self._BTC_ETH_array[219][open]: 0.8455733306380313
+self._BTC_ETH_array[219][close]: 0.8389429176004657
+self._BTC_ETH_array[219][volume]: 278.81084878
+
+Index 220 - Date: 2018-01-21T15:00:00
+self._BTC_ETH_array[220][date]: 1516543200.0
+self._BTC_ETH_array[220][high]: 0.8228434496029072
+self._BTC_ETH_array[220][low]: 0.8228434496029072
+self._BTC_ETH_array[220][open]: 0.8024793599126125
+self._BTC_ETH_array[220][close]: 0.7983515141510763
+self._BTC_ETH_array[220][volume]: 112.8331954
+
+Index 221 - Date: 2018-01-21T15:30:00
+self._BTC_ETH_array[221][date]: 1516545000.0
+self._BTC_ETH_array[221][high]: 0.8950553649633703
+self._BTC_ETH_array[221][low]: 0.8950553649633703
+self._BTC_ETH_array[221][open]: 0.8677444053953298
+self._BTC_ETH_array[221][close]: 0.8659220376753288
+self._BTC_ETH_array[221][volume]: 94.52281191
+
+Index 222 - Date: 2018-01-21T16:00:00
+self._BTC_ETH_array[222][date]: 1516546800.0
+self._BTC_ETH_array[222][high]: 0.8426672612681667
+self._BTC_ETH_array[222][low]: 0.8426672612681667
+self._BTC_ETH_array[222][open]: 0.8256038935755772
+self._BTC_ETH_array[222][close]: 0.823173983477792
+self._BTC_ETH_array[222][volume]: 34.3220227
+
+Index 223 - Date: 2018-01-21T16:30:00
+self._BTC_ETH_array[223][date]: 1516548600.0
+self._BTC_ETH_array[223][high]: 0.8648879015501152
+self._BTC_ETH_array[223][low]: 0.8648879015501152
+self._BTC_ETH_array[223][open]: 0.843961859892054
+self._BTC_ETH_array[223][close]: 0.8416865987055754
+self._BTC_ETH_array[223][volume]: 153.16568489
+
+Index 224 - Date: 2018-01-21T17:00:00
+self._BTC_ETH_array[224][date]: 1516550400.0
+self._BTC_ETH_array[224][high]: 0.8665587136957319
+self._BTC_ETH_array[224][low]: 0.8665587136957319
+self._BTC_ETH_array[224][open]: 0.8394027533696246
+self._BTC_ETH_array[224][close]: 0.840868863900112
+self._BTC_ETH_array[224][volume]: 143.06896989
+
+Index 225 - Date: 2018-01-21T17:30:00
+self._BTC_ETH_array[225][date]: 1516552200.0
+self._BTC_ETH_array[225][high]: 0.9158342202528624
+self._BTC_ETH_array[225][low]: 0.9158342202528624
+self._BTC_ETH_array[225][open]: 0.8918490318700433
+self._BTC_ETH_array[225][close]: 0.88981004695892
+self._BTC_ETH_array[225][volume]: 70.14218365
+
+Index 226 - Date: 2018-01-21T18:00:00
+self._BTC_ETH_array[226][date]: 1516554000.0
+self._BTC_ETH_array[226][high]: 0.87344644095293
+self._BTC_ETH_array[226][low]: 0.87344644095293
+self._BTC_ETH_array[226][open]: 0.8620920048548824
+self._BTC_ETH_array[226][close]: 0.8514398880045454
+self._BTC_ETH_array[226][volume]: 45.96873907
+
+Index 227 - Date: 2018-01-21T18:30:00
+self._BTC_ETH_array[227][date]: 1516555800.0
+self._BTC_ETH_array[227][high]: 0.9726861694372511
+self._BTC_ETH_array[227][low]: 0.9726861694372511
+self._BTC_ETH_array[227][open]: 0.945311925570215
+self._BTC_ETH_array[227][close]: 0.9483159401601807
+self._BTC_ETH_array[227][volume]: 23.68200496
+
+Index 228 - Date: 2018-01-21T19:00:00
+self._BTC_ETH_array[228][date]: 1516557600.0
+self._BTC_ETH_array[228][high]: 0.9147243440718119
+self._BTC_ETH_array[228][low]: 0.9147243440718119
+self._BTC_ETH_array[228][open]: 0.8949687498805302
+self._BTC_ETH_array[228][close]: 0.8996686284983857
+self._BTC_ETH_array[228][volume]: 33.61204705
+
+Index 229 - Date: 2018-01-21T19:30:00
+self._BTC_ETH_array[229][date]: 1516559400.0
+self._BTC_ETH_array[229][high]: 0.9086567001915742
+self._BTC_ETH_array[229][low]: 0.9086567001915742
+self._BTC_ETH_array[229][open]: 0.8863024133066107
+self._BTC_ETH_array[229][close]: 0.8895210386644082
+self._BTC_ETH_array[229][volume]: 42.46669763
+
+Index 230 - Date: 2018-01-21T20:00:00
+self._BTC_ETH_array[230][date]: 1516561200.0
+self._BTC_ETH_array[230][high]: 0.9525328708779884
+self._BTC_ETH_array[230][low]: 0.9525328708779884
+self._BTC_ETH_array[230][open]: 0.9307783652573489
+self._BTC_ETH_array[230][close]: 0.9284857379454642
+self._BTC_ETH_array[230][volume]: 22.76360327
+
+Index 231 - Date: 2018-01-21T20:30:00
+self._BTC_ETH_array[231][date]: 1516563000.0
+self._BTC_ETH_array[231][high]: 0.9136375261284155
+self._BTC_ETH_array[231][low]: 0.9136375261284155
+self._BTC_ETH_array[231][open]: 0.8904415832111683
+self._BTC_ETH_array[231][close]: 0.8871249756819756
+self._BTC_ETH_array[231][volume]: 80.01669708
+
+Index 232 - Date: 2018-01-21T21:00:00
+self._BTC_ETH_array[232][date]: 1516564800.0
+self._BTC_ETH_array[232][high]: 0.9600745229736002
+self._BTC_ETH_array[232][low]: 0.9600745229736002
+self._BTC_ETH_array[232][open]: 0.9352632404180896
+self._BTC_ETH_array[232][close]: 0.9390663336169897
+self._BTC_ETH_array[232][volume]: 149.83005122
+
+Index 233 - Date: 2018-01-21T21:30:00
+self._BTC_ETH_array[233][date]: 1516566600.0
+self._BTC_ETH_array[233][high]: 0.9425148121094569
+self._BTC_ETH_array[233][low]: 0.9425148121094569
+self._BTC_ETH_array[233][open]: 0.9199420318349194
+self._BTC_ETH_array[233][close]: 0.913823950882487
+self._BTC_ETH_array[233][volume]: 32.46503334
+
+Index 234 - Date: 2018-01-21T22:00:00
+self._BTC_ETH_array[234][date]: 1516568400.0
+self._BTC_ETH_array[234][high]: 0.9970870206438572
+self._BTC_ETH_array[234][low]: 0.9970870206438572
+self._BTC_ETH_array[234][open]: 0.9674049717509318
+self._BTC_ETH_array[234][close]: 0.9703901072839444
+self._BTC_ETH_array[234][volume]: 127.29572824
+
+Index 235 - Date: 2018-01-21T22:30:00
+self._BTC_ETH_array[235][date]: 1516570200.0
+self._BTC_ETH_array[235][high]: 0.9223095201593279
+self._BTC_ETH_array[235][low]: 0.9223095201593279
+self._BTC_ETH_array[235][open]: 0.8961939049535719
+self._BTC_ETH_array[235][close]: 0.9056386001502839
+self._BTC_ETH_array[235][volume]: 62.04798146
+
+Index 236 - Date: 2018-01-21T23:00:00
+self._BTC_ETH_array[236][date]: 1516572000.0
+self._BTC_ETH_array[236][high]: 0.959342260147334
+self._BTC_ETH_array[236][low]: 0.959342260147334
+self._BTC_ETH_array[236][open]: 0.9313142591730599
+self._BTC_ETH_array[236][close]: 0.9249402262093283
+self._BTC_ETH_array[236][volume]: 38.89959423
+
+Index 237 - Date: 2018-01-21T23:30:00
+self._BTC_ETH_array[237][date]: 1516573800.0
+self._BTC_ETH_array[237][high]: 1.0368675437203958
+self._BTC_ETH_array[237][low]: 1.0368675437203958
+self._BTC_ETH_array[237][open]: 1.0099853821874112
+self._BTC_ETH_array[237][close]: 1.020133293487284
+self._BTC_ETH_array[237][volume]: 46.09014172
+
+Index 238 - Date: 2018-01-22T00:00:00
+self._BTC_ETH_array[238][date]: 1516575600.0
+self._BTC_ETH_array[238][high]: 0.9827084912768422
+self._BTC_ETH_array[238][low]: 0.9827084912768422
+self._BTC_ETH_array[238][open]: 0.9576111586451218
+self._BTC_ETH_array[238][close]: 0.9697664537947126
+self._BTC_ETH_array[238][volume]: 58.08252828
+
+Index 239 - Date: 2018-01-22T00:30:00
+self._BTC_ETH_array[239][date]: 1516577400.0
+self._BTC_ETH_array[239][high]: 1.03447734498872
+self._BTC_ETH_array[239][low]: 1.03447734498872
+self._BTC_ETH_array[239][open]: 1.0105945313813818
+self._BTC_ETH_array[239][close]: 1.010713582053319
+self._BTC_ETH_array[239][volume]: 28.88603681
+
+Index 240 - Date: 2018-01-22T01:00:00
+self._BTC_ETH_array[240][date]: 1516579200.0
+self._BTC_ETH_array[240][high]: 1.068832903765765
+self._BTC_ETH_array[240][low]: 1.068832903765765
+self._BTC_ETH_array[240][open]: 1.0435551762804387
+self._BTC_ETH_array[240][close]: 1.035725094757344
+self._BTC_ETH_array[240][volume]: 44.70694658
+
+Index 241 - Date: 2018-01-22T01:30:00
+self._BTC_ETH_array[241][date]: 1516581000.0
+self._BTC_ETH_array[241][high]: 1.0615384785983952
+self._BTC_ETH_array[241][low]: 1.0615384785983952
+self._BTC_ETH_array[241][open]: 1.0311278771756973
+self._BTC_ETH_array[241][close]: 1.027240421507873
+self._BTC_ETH_array[241][volume]: 16.50669
+
+Index 242 - Date: 2018-01-22T02:00:00
+self._BTC_ETH_array[242][date]: 1516582800.0
+self._BTC_ETH_array[242][high]: 1.0411460846050775
+self._BTC_ETH_array[242][low]: 1.0411460846050775
+self._BTC_ETH_array[242][open]: 1.0184301836741263
+self._BTC_ETH_array[242][close]: 1.0109024561927782
+self._BTC_ETH_array[242][volume]: 44.99543285
+
+Index 243 - Date: 2018-01-22T02:30:00
+self._BTC_ETH_array[243][date]: 1516584600.0
+self._BTC_ETH_array[243][high]: 1.0602895196209312
+self._BTC_ETH_array[243][low]: 1.0602895196209312
+self._BTC_ETH_array[243][open]: 1.036634280593216
+self._BTC_ETH_array[243][close]: 1.0350147787450994
+self._BTC_ETH_array[243][volume]: 24.20467438
+
+Index 244 - Date: 2018-01-22T03:00:00
+self._BTC_ETH_array[244][date]: 1516586400.0
+self._BTC_ETH_array[244][high]: 1.079312794802186
+self._BTC_ETH_array[244][low]: 1.079312794802186
+self._BTC_ETH_array[244][open]: 1.069848491009801
+self._BTC_ETH_array[244][close]: 1.058670900743968
+self._BTC_ETH_array[244][volume]: 40.00045754
+
+Index 245 - Date: 2018-01-22T03:30:00
+self._BTC_ETH_array[245][date]: 1516588200.0
+self._BTC_ETH_array[245][high]: 1.0822767393635229
+self._BTC_ETH_array[245][low]: 1.0822767393635229
+self._BTC_ETH_array[245][open]: 1.0552258231362541
+self._BTC_ETH_array[245][close]: 1.0660715460786705
+self._BTC_ETH_array[245][volume]: 59.54957752
+
+Index 246 - Date: 2018-01-22T04:00:00
+self._BTC_ETH_array[246][date]: 1516590000.0
+self._BTC_ETH_array[246][high]: 1.043440462807684
+self._BTC_ETH_array[246][low]: 1.043440462807684
+self._BTC_ETH_array[246][open]: 1.0237103075745941
+self._BTC_ETH_array[246][close]: 1.023165626296758
+self._BTC_ETH_array[246][volume]: 44.14230683
+
+Index 247 - Date: 2018-01-22T04:30:00
+self._BTC_ETH_array[247][date]: 1516591800.0
+self._BTC_ETH_array[247][high]: 1.195504141513809
+self._BTC_ETH_array[247][low]: 1.195504141513809
+self._BTC_ETH_array[247][open]: 1.1639839295941428
+self._BTC_ETH_array[247][close]: 1.1620934722779193
+self._BTC_ETH_array[247][volume]: 37.13744199
+
+Index 248 - Date: 2018-01-22T05:00:00
+self._BTC_ETH_array[248][date]: 1516593600.0
+self._BTC_ETH_array[248][high]: 1.0860761367694556
+self._BTC_ETH_array[248][low]: 1.0860761367694556
+self._BTC_ETH_array[248][open]: 1.067037412649077
