@@ -33,6 +33,7 @@ import sys
 import os
 import datetime
 import statistics
+import math
 
 
 class Trading:
@@ -41,6 +42,7 @@ class Trading:
     _current_stack = 0
     _timebank = 0
     _test = 0
+    _candles_given = 0
     _BTC_stack = 0
     _ETH_stack = 0
     _USDT_stack = 0
@@ -58,18 +60,16 @@ class Trading:
             array = self._input_str.split(" ")
             if (len(array) < 3):
                 print("settings pas bon", file=sys.stderr)
-                exit(84);
+                exit(84)
             # if (array[0] != "settings") break;
             self._settings_array[array[1]] = array[2]
             # print("self._settings_array[1] :" + self._settings_array[array[1]], file=sys.stderr)
-
-        
 
 
     def set_settings(self):
         self._timebank = int(self._settings_array["timebank"])
         self._current_stack = int(self._settings_array["initial_stack"])
-
+        self._candles_given = int(self._settings_array["candles_given"])
 
 
     def next_candles(self, input_str):
@@ -87,6 +87,7 @@ class Trading:
                     'close': float(splited_str[5]),
                     'volume': float(splited_str[6]),
                 })
+                self._BTC_ETH_array.append({})
 
 
             if (splited_str[0] == "USDT_BTC"):
@@ -98,6 +99,7 @@ class Trading:
                     'close': float(splited_str[5]),
                     'volume': float(splited_str[6]),
                 })
+                self._USDT_BTC_array.append({})
 
             if (splited_str[0] == "USDT_ETH"):
                 self._USDT_ETH_array.append({
@@ -108,6 +110,7 @@ class Trading:
                     'close': float(splited_str[5]),
                     'volume': float(splited_str[6]),
                 })
+                self._USDT_ETH_array.append({})
 
     def buy_crypto(self, currency, amount, stack):
         # print("SEND: buy USDT_BTC {0}".format(self._current_stack), file=sys.stderr)
@@ -115,34 +118,73 @@ class Trading:
             print(f'buy {currency} {amount}')
 
     def sell_crypto(self, currency, amount):
-        print("sell USDT_BTC 0.001")
+        print("sell USDT_BTC 0.001", end='')
 
-    def find_average(self, array):
+    # def find_middleBB(self, array, period = 0):
+    #     tmp_list = array[:period]
+    #     return statistics.mean(tmp_list)
+
+    def find_middleBB(self, array, period):
         tmp_list = []
-        for x in array:
+        for x in array[:period]:
             if x.get('close') is not None:
                 tmp_list.append(x.get('close'))
-        return sum(tmp_list) / len(tmp_list)
+        return (sum(tmp_list) / len(tmp_list))
 
-    def buy_or_sell(self):
-        avg_USDT_BTC = self.find_average(self._USDT_BTC_array)
-        avg_USDT_ETH = self.find_average(self._USDT_ETH_array)
-        avg_BTC_ETH = self.find_average(self._BTC_ETH_array)
+    def getStandardDeviation(self, array, period):
+        deviationSum = 0
+        tmp_list = array[:period]
+        average = statistics.mean(tmp_list)
+        for i in tmp_list:
+            deviationSum += pow((abs(i - average)), 2)
+        return (math.sqrt(deviationSum / period))
 
+    # def close_open_list(self, array, period, papa):
+    #     tmp_list = []
+    #     for x in array[:period]:
+    #         if x.get(papa) is not None:
+    #             tmp_list.append(x.get(papa))
+    #     return tmp_list
+
+    def close_open_list(self, array, period, papa):
+        tmp_list = []
+        for x in array:
+            if x.get(papa) is not None:
+                tmp_list.append(x.get(papa))
+        return tmp_list
+
+    def buy_or_sell(self, array, currency_string, currency_stack):
+        period = self._candles_given
+        middleBB = self.find_middleBB(array, period)
+
+        close_list = self.close_open_list(array, period, "close")
+        open_list = self.close_open_list(array, period, "open")
+
+        # open_list = []
+
+        # for x in array[:period]:
+        #     if x.get('open') is not None:
+        #         open_list.append(x.get('open'))
+
+        get_StD = self.getStandardDeviation(close_list, period)
+        # upperBB = (get_StD * 2)
+        # lowerBB = (get_StD / 2)
+
+        upper = middleBB + (get_StD * 2)
+        lower = middleBB - (get_StD * 2)
 
         try:
 
-            if (avg_USDT_BTC > self._USDT_BTC_array[-1]["close"] and self._current_stack > 0.0001):
-                self.buy_crypto("USDT_BTC", 0.001, self._USDT_stack)
-
-            elif(avg_USDT_ETH > self._USDT_ETH_array[-1]["close"] and self._current_stack > 0.0001):
-                self.buy_crypto("USDT_ETH", 0.001, self._USDT_stack)
-
-            elif(avg_BTC_ETH > self._USDT_ETH_array[-1]["close"] and self._current_stack > 0.0001):
-                self.buy_crypto("BTC_ETH", 0.001, self._BTC_stack)
+            print("lower = " + str(lower), file=sys.stderr)
+            print("self.array[-1][close] = " + str(close_list[-1]["close"]), file=sys.stderr)
+            if (close_list[-1] < lower):
+                self.buy_crypto(currency_string, 0.001, currency_stack)
+            elif (close_list[-1] > upper):
+                print("sell " + currency_string + " " + "0.001", end='')
 
             else:
                 print("pass")
+                print("je pass", file=sys.stderr)
 
         except KeyError:
             pass
@@ -164,7 +206,6 @@ class Trading:
             print("fucking " + splited_str[0] + " stacks : " + splited_str[1], file=sys.stderr)
 
     def loop(self):
-        i = 0
         while True:
             self.get_input()
             array = self._input_str.split(" ")
@@ -176,14 +217,11 @@ class Trading:
                         self.current_stack(array[3])
 
             elif (array[0] == "action" and array[1] == "order"):
-                self.buy_or_sell()
+                self.buy_or_sell(self._USDT_ETH_array, "USDT_ETH", self._USDT_stack)
+                self.buy_or_sell(self._BTC_ETH_array, "BTC_ETH", self._BTC_stack)
+                self.buy_or_sell(self._USDT_BTC_array, "USDT_BTC", self._USDT_stack)
             else :
                 print("caca pas bon", file=sys.stderr)
-
-            # print("buy USDT_BTC 0.002")
-            # print("buy BTC_ETH 0.000001")
-            i += 1
-            # print("le int i =" + str(i), file=sys.stderr)
 
 
     def entrypoint(self):
