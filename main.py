@@ -91,7 +91,10 @@ class Trading:
         for x in array[-period:]:
             if x.get('close') is not None:
                 tmp_list.append(x.get('close'))
+        # try:
         return (sum(tmp_list) / len(tmp_list))
+        # except ZeroDivisionError:
+            # pass
 
     def getStandardDeviation(self, array, period):
         deviationSum = 0
